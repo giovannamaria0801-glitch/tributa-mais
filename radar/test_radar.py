@@ -38,6 +38,20 @@ class T(unittest.TestCase):
         with mock.patch.object(run, "collect", fake), mock.patch.object(run.time, "sleep"):
             log = run_all = run.run_all([{**SRC, "id": "bad"}, SRC, {**SRC, "id": "off", "enabled": False}], db, "t", ai=lambda *a: None)
         self.assertEqual([f["ok"] for f in log["fontes"]], [False, True]); self.assertEqual(len(db), 1)
+
+    def test_listing_only_https_allowed_domains_and_keywords(self):
+        html = b'<a href="/ato-1">Ato Conjunto RFB/CGIBS</a><a href="https://evil.example/ato">Ato IBS</a><a href="/noticia">Evento cultural</a>'
+        pages = {
+            "https://www.gov.br/lista": html,
+            "https://www.gov.br/ato-1": b"<html><p>Publicado em 10/11/2026</p><p>Texto do ato IBS e CBS</p></html>",
+        }
+        src = {"id":"list","type":"listing","url":"https://www.gov.br/lista","allowed_domains":["gov.br"],"keywords":["Ato Conjunto"],"max_items":10}
+        with mock.patch.object(run, "fetch", side_effect=lambda u: pages[u]):
+            items = run.collect(src)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["url"], "https://www.gov.br/ato-1")
+        self.assertEqual(items[0]["publicado"], "10/11/2026")
+
     def test_retry(self):
         with mock.patch.object(run.urllib.request, "urlopen", side_effect=OSError("x")), mock.patch.object(run.time, "sleep") as sl:
             with self.assertRaises(RuntimeError): run.fetch("https://x")

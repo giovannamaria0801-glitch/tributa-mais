@@ -5,6 +5,7 @@ A IA só roda se OPENAI_API_KEY e OPENAI_MODEL existirem (Secrets/Variables). Na
 para sempre; só o log de execuções (runs.json) é limitado às últimas 90 execuções."""
 import datetime as dt, difflib, hashlib, json, os, re, sys, time
 import urllib.error, urllib.request
+from urllib.parse import urljoin, urlparse
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 
@@ -76,13 +77,52 @@ def parse_feed(xml):
                     "texto": html_text(g("description") or g("summary") or "")})
     return out
 
+class _Links(HTMLParser):
+    """Extrai links de listagens oficiais sem executar scripts ou carregar recursos externos."""
+    def __init__(self):
+        super().__init__(); self.links=[]; self.current=None
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            href=dict(attrs).get("href")
+            if href: self.current={"url":href,"titulo":[]}
+    def handle_data(self, data):
+        if self.current is not None: self.current["titulo"].append(data)
+    def handle_endtag(self, tag):
+        if tag == "a" and self.current is not None:
+            self.current["titulo"]=" ".join(" ".join(self.current["titulo"]).split())
+            if self.current["titulo"]: self.links.append(self.current)
+            self.current=None
+
+def _published(text):
+    m=re.search(r"(?:publicado(?: em)?|data de publicação)\s*:?\s*(\d{2}/\d{2}/\d{4})", text, re.I)
+    return m.group(1) if m else None
+
 def collect(src):
-    """Adapters: 'page' (observa uma página oficial) e 'rss' (feed oficial). Novas fontes = novos tipos aqui."""
+    """Adapters: page, rss e listing. Listing lê links e conteúdo em páginas oficiais."""
     if src["type"] == "page":
-        return [{"titulo": src["titulo"], "url": src["url"], "publicado": src.get("publicado"), "texto": html_text(decode(fetch(src["url"])))}]
+        body=html_text(decode(fetch(src["url"])))
+        return [{"titulo":src["titulo"],"url":src["url"],"publicado":_published(body) or src.get("publicado"),"texto":body}]
     if src["type"] == "rss":
-        kws = [k.lower() for k in src.get("keywords", [])]
-        return [i for i in parse_feed(fetch(src["url"])) if i["url"] and (not kws or any(k in (i["titulo"] + i["texto"]).lower() for k in kws))]
+        kws=[k.lower() for k in src.get("keywords",[])]
+        return [i for i in parse_feed(fetch(src["url"])) if i["url"] and (not kws or any(k in (i["titulo"]+" "+i["texto"]).lower() for k in kws))]
+    if src["type"] == "listing":
+        raw=decode(fetch(src["url"])); parser=_Links(); parser.feed(raw)
+        kws=[k.casefold() for k in src.get("keywords",[])]
+        allowed=tuple(src.get("allowed_domains",[]))
+        out=[]; seen=set()
+        for link in parser.links:
+            title=link["titulo"]; url=urljoin(src["url"],link["url"]); host=(urlparse(url).hostname or "").lower()
+            if not url.startswith("https://") or not host or (allowed and not any(host==d or host.endswith("."+d) for d in allowed)): continue
+            if url in seen or (kws and not any(k in title.casefold() for k in kws)): continue
+            seen.add(url)
+            try:
+                body=html_text(decode(fetch(url)))
+            except Exception as e:
+                # Mantém a referência oficial, mas deixa explícito que o conteúdo não foi obtido.
+                body="Falha ao obter o conteúdo integral da publicação: "+type(e).__name__
+            out.append({"titulo":title,"url":url,"publicado":_published(body),"texto":body or title})
+            if len(out)>=int(src.get("max_items",60)): break
+        return out
     raise ValueError("tipo de fonte desconhecido: " + src["type"])
 
 def valid_ai(o):

@@ -1,0 +1,44 @@
+name: Radar Tributário
+
+on:
+  schedule:
+    # 08:00 no horário de Brasília (UTC-3). O cron do GitHub usa UTC.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-tributario
+  cancel-in-progress: false
+
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Executar testes
+        run: python -m unittest discover -s radar -v
+      - name: Coletar e analisar publicações
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: python radar/run.py
+      - name: Salvar dados atualizados
+        run: |
+          if [[ -n "$(git status --porcelain data/)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/normas.json data/runs.json data/cache/
+            git commit -m "chore(radar): atualização diária das fontes tributárias"
+            git push
+          else
+            echo "Nenhuma alteração nos dados do Radar."
+          fi

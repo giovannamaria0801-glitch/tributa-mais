@@ -37,3 +37,24 @@ Para rodar localmente, abra `index.html` no navegador.
 **Fluxo editorial:** a automação só define `identificada`, `aguardando_analise` e `atualizada_posteriormente`. Para `em_revisao`, `revisada`, `publicada` ou `rejeitada`, edite o campo `status` do item em `data/normas.json` (commit). Itens não revisados aparecem com aviso de conteúdo automatizado; `rejeitada` fica oculto no site, mas não é apagada. Normas nunca são removidas automaticamente.
 
 **Manutenção:** rode `python -m unittest discover -s radar -v` antes de mudar o motor. Limitação conhecida: para normas longas (LC 214), a IA recebe só o trecho inicial na primeira leitura e, nas alterações, apenas o diff.
+
+
+## Radar Tributário — ampliação do monitoramento
+
+O workflow `.github/workflows/radar.yml` executa diariamente às 08h de Brasília (11:00 UTC) e também pode ser iniciado manualmente. Ele roda os testes, coleta as fontes e grava alterações em `data/`.
+
+### Fontes configuradas
+- Planalto: EC 132/2023, LC 214/2025 e LC 227/2026 (texto legislativo).
+- Ministério da Fazenda e Receita Federal: notícias oficiais filtradas por palavras-chave. **Notícia é sinal de acompanhamento, não prova de publicação de norma.**
+- Portal DFe/SVRS: listagem oficial de notas técnicas e documentos fiscais eletrônicos.
+
+O coletor de listagens só segue links HTTPS de domínios oficiais autorizados no cadastro da fonte. Uma indisponibilidade de uma fonte é registrada no log sem interromper as demais. Os resultados automatizados ficam pendentes de revisão humana.
+
+### Segredos e permissões
+- `OPENAI_API_KEY`: secret opcional para gerar resumos. Nunca coloque a chave no HTML, JavaScript ou em arquivos do repositório.
+- `OPENAI_MODEL`: variável opcional com o modelo habilitado na sua conta.
+- Workflow usa permissões mínimas de leitura e escrita em `contents`, somente para atualizar os dados coletados.
+- Se não configurar a chave da IA, o radar continua coletando e identificando publicações, mas não gera análise automática.
+
+### Limites importantes
+O monitoramento por páginas e listagens detecta alterações e novas referências disponíveis nessas páginas; não substitui uma integração oficial de API/Diário Oficial nem garante cobertura de todos os atos estaduais ou municipais. Datas de publicação, início de vigência, alíquotas e efeitos precisam ser confirmados no ato oficial. Não use resumos automáticos como parecer jurídico.
