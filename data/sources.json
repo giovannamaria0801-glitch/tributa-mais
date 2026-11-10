@@ -1,6 +1,113 @@
 [
- {"id":"planalto-ec132","type":"page","tipo":"Emenda Constitucional","orgao":"Presidência da República (Planalto)","numero":"132/2023","titulo":"Emenda Constitucional nº 132/2023","url":"https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"},
- {"id":"planalto-lc214","type":"page","tipo":"Lei Complementar","orgao":"Presidência da República (Planalto)","numero":"214/2025","titulo":"Lei Complementar nº 214/2025","url":"https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"},
- {"id":"planalto-lc227","type":"page","tipo":"Lei Complementar","orgao":"Presidência da República (Planalto)","numero":"227/2026","titulo":"Lei Complementar nº 227/2026","url":"https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"},
- {"id":"exemplo-rss","enabled":false,"type":"rss","tipo":"Ato normativo","orgao":"PREENCHER","url":"","keywords":["IBS","CBS","Imposto Seletivo","reforma tributária","LC 214","LC 227"],"_nota":"Cole aqui só feeds RSS/Atom oficiais que você verificou nos termos de uso da fonte, depois mude enabled para true."}
+  {
+    "id": "planalto-ec132",
+    "type": "page",
+    "tipo": "Emenda Constitucional",
+    "orgao": "Presidência da República (Planalto)",
+    "numero": "132/2023",
+    "titulo": "Emenda Constitucional nº 132/2023",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+  },
+  {
+    "id": "planalto-lc214",
+    "type": "page",
+    "tipo": "Lei Complementar",
+    "orgao": "Presidência da República (Planalto)",
+    "numero": "214/2025",
+    "titulo": "Lei Complementar nº 214/2025",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+  },
+  {
+    "id": "planalto-lc227",
+    "type": "page",
+    "tipo": "Lei Complementar",
+    "orgao": "Presidência da República (Planalto)",
+    "numero": "227/2026",
+    "titulo": "Lei Complementar nº 227/2026",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+  },
+  {
+    "id": "mf-noticias-rtc",
+    "type": "listing",
+    "tipo": "Notícia institucional (não equivale a norma)",
+    "orgao": "Ministério da Fazenda",
+    "titulo": "Notícias do Ministério da Fazenda relacionadas à tributação",
+    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/",
+    "allowed_domains": [
+      "gov.br"
+    ],
+    "max_items": 60,
+    "keywords": [
+      "reforma tributária",
+      "IBS",
+      "CBS",
+      "imposto seletivo",
+      "tributação",
+      "alíquota",
+      "alíquota",
+      "split payment",
+      "crédito tributário",
+      "legislação tributária",
+      "ICMS",
+      "ISS",
+      "IPI",
+      "PIS",
+      "Cofins",
+      "Simples Nacional"
+    ]
+  },
+  {
+    "id": "rfb-noticias-rtc",
+    "type": "listing",
+    "tipo": "Notícia institucional (não equivale a norma)",
+    "orgao": "Receita Federal do Brasil",
+    "titulo": "Notícias da Receita Federal relacionadas à tributação",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/ultimas-noticias",
+    "allowed_domains": [
+      "gov.br"
+    ],
+    "max_items": 60,
+    "keywords": [
+      "reforma tributária",
+      "IBS",
+      "CBS",
+      "imposto seletivo",
+      "tributação",
+      "alíquota",
+      "split payment",
+      "crédito tributário",
+      "legislação tributária",
+      "ICMS",
+      "IPI",
+      "PIS",
+      "Cofins",
+      "Simples Nacional",
+      "DeRE"
+    ]
+  },
+  {
+    "id": "svrs-documentos-nfe",
+    "type": "listing",
+    "tipo": "Documento técnico fiscal eletrônico",
+    "orgao": "Portal DFe - SVRS / ENCAT",
+    "titulo": "Notas técnicas e documentos do Portal Nacional de Documentos Fiscais Eletrônicos",
+    "url": "https://dfe-portal.svrs.rs.gov.br/NFe/Documentos",
+    "allowed_domains": [
+      "svrs.rs.gov.br"
+    ],
+    "max_items": 80,
+    "keywords": [
+      "RTC",
+      "IBS",
+      "CBS",
+      "reforma tributária",
+      "split payment",
+      "Simples Nacional",
+      "Nota Técnica",
+      "NF-e",
+      "NFC-e",
+      "CT-e",
+      "MDF-e"
+    ]
+  }
 ]
