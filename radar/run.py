@@ -94,7 +94,7 @@ class _Links(HTMLParser):
             self.current=None
 
 def _published(text):
-    m=re.search(r"(?:publicado(?: em)?|data de publicação)\\s*:?\\s*(\\d{2}/\\d{2}/\\d{4})", text, re.I)
+    m=re.search(r"(?:publicado(?: em)?|data de publicação)\s*:?\s*(\d{2}/\d{2}/\d{4})", text, re.I)
     return m.group(1) if m else None
 
 def collect(src):
