@@ -1,0 +1,6 @@
+[
+ {"id":"planalto-ec132","type":"page","tipo":"Emenda Constitucional","orgao":"Presidência da República (Planalto)","numero":"132/2023","titulo":"Emenda Constitucional nº 132/2023","url":"https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"},
+ {"id":"planalto-lc214","type":"page","tipo":"Lei Complementar","orgao":"Presidência da República (Planalto)","numero":"214/2025","titulo":"Lei Complementar nº 214/2025","url":"https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"},
+ {"id":"planalto-lc227","type":"page","tipo":"Lei Complementar","orgao":"Presidência da República (Planalto)","numero":"227/2026","titulo":"Lei Complementar nº 227/2026","url":"https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"},
+ {"id":"exemplo-rss","enabled":false,"type":"rss","tipo":"Ato normativo","orgao":"PREENCHER","url":"","keywords":["IBS","CBS","Imposto Seletivo","reforma tributária","LC 214","LC 227"],"_nota":"Cole aqui só feeds RSS/Atom oficiais que você verificou nos termos de uso da fonte, depois mude enabled para true."}
+]

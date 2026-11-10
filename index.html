@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="TRIBUTA+ — entenda a Reforma Tributária brasileira de forma simples, interativa e gratuita.">
+  <meta name="theme-color" content="#17152f">
+  <title>TRIBUTA+ | Reforma Tributária ao alcance de todos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="announcement"><span class="pulse"></span> CONTEÚDO EDUCATIVO • GRATUITO • ATUALIZAÇÃO: NOVEMBRO/2026</div>
+  <header class="topbar">
+    <a class="brand" href="#inicio" aria-label="TRIBUTA+ início"><span class="brand-mark">T<span>+</span></span><span>TRIBUTA<span class="brand-plus">+</span></span></a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Abrir menu" aria-expanded="false">☰</button>
+    <nav id="mainNav">
+      <a href="#reforma">A Reforma</a><a href="#simulador">Simulador</a><a href="#linha-do-tempo">Cronograma</a><a href="#aprender">Aprender</a><a href="#cenarios">Cenários</a><a href="#comparador">Comparador</a><a href="#quiz">Quiz</a><a href="#faq">FAQ</a><a href="#atualizacoes">Atualizações</a><a href="radar.html">Radar</a><a href="#fontes">Fontes</a>
+      <button id="themeBtn" class="theme-btn" aria-label="Alternar modo claro/escuro">◐</button><a class="nav-cta" href="#explorar">Começar a explorar <span>↗</span></a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-glow glow-one"></div><div class="hero-glow glow-two"></div>
+      <div class="hero-content">
+        <div class="eyebrow"><span class="eyebrow-dot"></span> O FUTURO DO SISTEMA TRIBUTÁRIO, EXPLICADO</div>
+        <h1>A Reforma Tributária<br>sem <span class="gradient-text">complicação.</span></h1>
+        <p class="hero-copy">Um novo sistema está sendo construído. Entenda o que muda, explore cenários e descubra como a Reforma Tributária impacta o Brasil.</p>
+        <div class="hero-actions"><a class="button button-primary" href="#explorar">Explorar a plataforma <span>→</span></a><a class="button button-ghost" href="#reforma">Entender a Reforma</a></div>
+        <div class="hero-proof"><div class="avatars"><span>IBS</span><span>CBS</span><span>IS</span></div><span>Conhecimento tributário mais acessível para todos.</span></div>
+      </div>
+      <div class="hero-visual">
+        <div class="dashboard-card">
+          <div class="dash-top"><div><span class="mini-label">VISÃO GERAL</span><h3>O novo modelo</h3></div><span class="live-tag"><i></i> EM TRANSIÇÃO</span></div>
+          <div class="tax-flow">
+            <div class="tax-node"><span class="node-icon">◎</span><strong>IBS</strong><small>Estados + Municípios</small></div>
+            <div class="plus-sign">+</div>
+            <div class="tax-node"><span class="node-icon node-cbs">◈</span><strong>CBS</strong><small>União</small></div>
+            <div class="plus-sign">+</div>
+            <div class="tax-node"><span class="node-icon node-is">✳</span><strong>IS</strong><small>Imposto Seletivo</small></div>
+          </div>
+          <div class="dash-divider"></div>
+          <div class="dash-bottom"><div><span class="mini-label">TRANSIÇÃO</span><strong>2026 → 2033</strong></div><div class="progress-ring"><span>7<br><small>anos</small></span></div></div>
+          <div class="floating-chip chip-a"><span>✦</span> Informação simplificada</div><div class="floating-chip chip-b"><span>↗</span> Simulações interativas</div>
+        </div>
+      </div>
+      <div class="hero-bottom"><span>01 / CONHECIMENTO</span><span>DESLIZE PARA DESCOBRIR <b>↓</b></span></div>
+    </section>
+
+    <section class="stats-strip dash" aria-label="Seu painel"><div><strong id="dProg">0%</strong><span>aulas concluídas</span></div><div><strong id="dQuiz">–</strong><span>melhor resultado no quiz</span></div><div><strong id="dUpd">–</strong><span>última atualização cadastrada</span></div><div><a href="#aprender" id="dNext">Continuar aprendendo →</a><span>conteúdo recomendado</span></div></section>
+
+    <section class="section intro-section" id="reforma">
+      <div class="section-heading"><div><span class="eyebrow purple">01 — ENTENDA A MUDANÇA</span><h2>Um sistema mais simples.<br><span class="muted-heading">Uma nova lógica tributária.</span></h2></div><p>A Reforma do consumo redesenha a tributação sobre bens e serviços. A proposta é substituir gradualmente diversos tributos por um modelo de IVA dual, com regras compartilhadas e competências distintas.</p></div>
+      <div class="concept-grid">
+        <article class="concept-card featured"><div class="concept-top"><span class="concept-symbol">◎</span><span class="concept-tag">ESTADOS E MUNICÍPIOS</span></div><h3>IBS</h3><p>Imposto sobre Bens e Serviços. Tributo de competência compartilhada entre Estados, Distrito Federal e Municípios.</p><button class="text-link explain-btn" data-topic="ibs">Entenda o IBS <span>↗</span></button></article>
+        <article class="concept-card"><div class="concept-top"><span class="concept-symbol lilac">◈</span><span class="concept-tag">UNIÃO</span></div><h3>CBS</h3><p>Contribuição sobre Bens e Serviços. Tributo federal que integra o novo modelo de tributação do consumo.</p><button class="text-link explain-btn" data-topic="cbs">Entenda a CBS <span>↗</span></button></article>
+        <article class="concept-card"><div class="concept-top"><span class="concept-symbol orange">✳</span><span class="concept-tag">UNIÃO</span></div><h3>IS</h3><p>Imposto Seletivo. Incide sobre bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos da legislação.</p><button class="text-link explain-btn" data-topic="is">Entenda o IS <span>↗</span></button></article>
+      </div>
+      <div class="info-banner"><div class="info-icon">i</div><div><strong>IVA dual: duas competências, uma lógica de tributação.</strong><p>IBS e CBS compartilham características estruturais, como a não cumulatividade e a tributação no destino, mas são tributos diferentes, com competências e administrações próprias.</p></div></div>
+      <div class="replaced-block"><div><span class="eyebrow purple">O QUE MUDA?</span><h3>Tributos que serão substituídos gradualmente</h3></div><div class="old-tax-list"><span>ICMS</span><span>ISS</span><span>PIS</span><span>Cofins</span><span>IPI*</span></div><small>*O IPI terá redução a zero em regra, preservadas as hipóteses constitucionais relacionadas à Zona Franca de Manaus, conforme a legislação.</small></div>
+    </section>
+
+    <section class="section dark-section" id="explorar">
+      <div class="section-heading light-heading"><div><span class="eyebrow">02 — EXPLORE NA PRÁTICA</span><h2>Conhecimento que<br><span class="gradient-text">vira experiência.</span></h2></div><p>Aprenda no seu ritmo. Os módulos foram pensados para traduzir conceitos jurídicos em experiências simples e interativas.</p></div>
+      <div class="feature-grid">
+        <a href="#simulador" class="feature-card"><span class="feature-icon">⌗</span><span class="feature-number">MÓDULO 01</span><h3>Simulador tributário</h3><p>Compare cenários com percentuais editáveis e entenda a matemática da incidência.</p><span class="feature-arrow">↗</span></a>
+        <a href="#linha-do-tempo" class="feature-card"><span class="feature-icon">◷</span><span class="feature-number">MÓDULO 02</span><h3>Linha do tempo</h3><p>Navegue pelos principais marcos da transição de 2026 a 2033.</p><span class="feature-arrow">↗</span></a>
+        <a href="#quiz" class="feature-card"><span class="feature-icon">✳</span><span class="feature-number">MÓDULO 03</span><h3>Desafio tributário</h3><p>Teste seus conhecimentos com perguntas e explicações após cada resposta.</p><span class="feature-arrow">↗</span></a>
+        <a href="#glossario" class="feature-card"><span class="feature-icon">Aa</span><span class="feature-number">MÓDULO 04</span><h3>Glossário</h3><p>Descubra o significado dos principais termos da Reforma sem juridiquês.</p><span class="feature-arrow">↗</span></a>
+      </div>
+    </section>
+
+    <section class="section simulator-section" id="simulador">
+      <div class="section-heading"><div><span class="eyebrow purple">03 — SIMULADOR DE CENÁRIOS</span><h2>Faça as contas.<br><span class="muted-heading">Visualize possibilidades.</span></h2></div><p>Altere a base e os percentuais para observar o resultado matemático de um cenário hipotético. Não é cálculo fiscal, apuração oficial ou estimativa de alíquota definitiva.</p></div>
+      <div class="simulator">
+        <div class="sim-controls">
+          <div class="sim-title"><span class="sim-icon">⌗</span><div><h3>Monte seu cenário</h3><p>Os valores são editáveis.</p></div></div>
+          <label for="baseValue">Valor da operação (R$)</label><div class="money-input"><span>R$</span><input id="baseValue" type="number" min="0" step="0.01" value="1000"></div>
+          <div class="range-label"><label for="ibsRate">Percentual hipotético de IBS</label><output id="ibsOutput">17,00%</output></div><input class="range" id="ibsRate" type="range" min="0" max="30" step=".01" value="17">
+          <div class="range-label"><label for="cbsRate">Percentual hipotético de CBS</label><output id="cbsOutput">8,00%</output></div><input class="range" id="cbsRate" type="range" min="0" max="30" step=".01" value="8">
+          <div class="sim-note"><span>ⓘ</span> Percentuais meramente ilustrativos. Não representam alíquotas oficiais ou recomendação tributária.</div>
+          <button class="button button-primary full-button" id="resetSim">Restaurar exemplo</button>
+        </div>
+        <div class="sim-results">
+          <span class="mini-label">RESULTADO DO CENÁRIO HIPOTÉTICO</span><div class="result-total" id="totalTax">R$ 250,00</div><span class="result-caption">Soma matemática dos percentuais aplicados à base informada</span>
+          <div class="result-bars"><div><div class="bar-meta"><span>IBS</span><strong id="ibsAmount">R$ 170,00</strong></div><div class="bar-track"><span id="ibsBar" class="bar-fill ibs-fill" style="width:68%"></span></div></div><div><div class="bar-meta"><span>CBS</span><strong id="cbsAmount">R$ 80,00</strong></div><div class="bar-track"><span id="cbsBar" class="bar-fill cbs-fill" style="width:32%"></span></div></div></div>
+          <div class="result-footer"><div><span>Percentual combinado</span><strong id="combinedRate">25,00%</strong></div><div><span>Base + tributos simulados</span><strong id="grossValue">R$ 1.250,00</strong></div></div>
+          <p class="legal-disclaimer">A simulação simplifica a mecânica percentual. Não considera regimes específicos, reduções, créditos, momento do fato gerador, local da operação, regras de cálculo “por fora” ou demais particularidades legais.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section timeline-section" id="linha-do-tempo">
+      <div class="section-heading"><div><span class="eyebrow purple">04 — CRONOGRAMA DE TRANSIÇÃO</span><h2>A mudança acontece<br><span class="muted-heading">em etapas.</span></h2></div><p>A implementação é gradual. Selecione um ano para conhecer os principais marcos previstos na Constituição e na legislação complementar.</p></div>
+      <div class="timeline-tabs" role="tablist" aria-label="Anos da transição">
+        <button class="year-tab active" data-year="2026" role="tab" aria-selected="true">2026</button><button class="year-tab" data-year="2027" role="tab" aria-selected="false">2027</button><button class="year-tab" data-year="2028" role="tab" aria-selected="false">2028</button><button class="year-tab" data-year="2029" role="tab" aria-selected="false">2029</button><button class="year-tab" data-year="2030" role="tab" aria-selected="false">2030</button><button class="year-tab" data-year="2031" role="tab" aria-selected="false">2031</button><button class="year-tab" data-year="2032" role="tab" aria-selected="false">2032</button><button class="year-tab" data-year="2033" role="tab" aria-selected="false">2033</button>
+      </div>
+      <article class="timeline-detail" aria-live="polite"><div class="timeline-year" id="timelineYear">2026</div><div class="timeline-copy"><span class="eyebrow purple" id="timelineTag">ANO DE TESTE</span><h3 id="timelineTitle">Início da fase de teste</h3><p id="timelineText">Começa a etapa inicial de teste da CBS e do IBS, com alíquotas de referência de 0,9% e 0,1%, respectivamente, observadas as regras legais e as condições de cumprimento das obrigações acessórias.</p><div class="timeline-foot" id="timelineFoot">Atenção às orientações oficiais sobre documentos fiscais e obrigações acessórias.</div></div></article>
+      <p class="small-note">Cronograma resumido para fins educativos. A aplicação concreta depende das regras constitucionais, das leis complementares, dos atos regulamentares e das normas operacionais vigentes.</p>
+    </section>
+
+    <section class="section glossary-section" id="glossario">
+      <div class="section-heading"><div><span class="eyebrow purple">05 — DICIONÁRIO TRIBUTÁRIO</span><h2>Tributês? Aqui, <span class="muted-heading">não.</span></h2></div><p>Pesquise um conceito e veja uma explicação direta. O glossário é introdutório e não substitui a leitura da legislação.</p></div>
+      <div class="glossary-search"><span>⌕</span><input id="glossarySearch" type="search" placeholder="Busque: não cumulatividade, destino, crédito..." aria-label="Buscar termo no glossário"></div>
+      <div class="glossary-grid" id="glossaryGrid"></div>
+      <p class="empty-state" id="glossaryEmpty" hidden>Nenhum termo encontrado. Tente outra palavra.</p>
+    </section>
+
+    <section class="section quiz-section" id="quiz">
+      <div class="quiz-intro"><span class="eyebrow">06 — TESTE SEUS CONHECIMENTOS</span><h2>Você está por dentro<br>da Reforma?</h2><p>Responda às perguntas, descubra seu resultado e aprenda com as explicações.</p><div class="quiz-decoration">?</div></div>
+      <div class="quiz-box" id="quizBox">
+        <div class="quiz-top"><span id="questionCounter">PERGUNTA 01 DE 06</span><span id="scoreLabel">0 pontos</span></div><div class="quiz-progress"><span id="quizProgress" style="width:16.66%"></span></div>
+        <h3 id="questionText">O que significa a sigla IBS?</h3><div class="answers" id="answers"></div><div class="feedback" id="feedback" hidden aria-live="polite"></div><div class="quiz-controls"><button class="button button-ghost dark-ghost" id="nextQuestion" disabled>Próxima pergunta →</button></div>
+      </div>
+    </section>
+
+
+    <section class="section" id="aprender"><div class="section-heading"><div><span class="eyebrow purple">TRILHAS DE APRENDIZAGEM</span><h2>Aulas curtas,<br><span class="muted-heading">exercício ao final.</span></h2></div><p>Leia, responda e conclua. O progresso fica salvo apenas neste navegador (localStorage), sem cadastro.</p></div><div class="lesson-grid" id="lessons"></div></section>
+
+    <section class="section simulator-section" id="cenarios"><div class="section-heading"><div><span class="eyebrow purple">SIMULADOR AVANÇADO</span><h2>Sistema atual × <span class="muted-heading">cenário hipotético.</span></h2></div><p>Todos os percentuais são ilustrativos e editáveis. Não são alíquotas oficiais nem apuração fiscal.</p></div>
+      <div class="simulator"><div class="sim-controls"><label for="opType">Tipo de operação</label><select id="opType" class="field"></select><p class="sim-note" id="opNote"></p>
+        <label for="opValue">Valor da operação (R$)</label><input class="field" id="opValue" type="number" min="0" step="0.01" value="1000">
+        <label for="oldRate">Carga hipotética dos tributos atuais (%)</label><input class="field" id="oldRate" type="number" min="0" max="100" step="0.01" value="25">
+        <label for="oldCred">Créditos no sistema atual (R$)</label><input class="field" id="oldCred" type="number" min="0" step="0.01" value="0">
+        <label for="nIbs">IBS hipotético (%)</label><input class="field" id="nIbs" type="number" min="0" max="100" step="0.01" value="17">
+        <label for="nCbs">CBS hipotética (%)</label><input class="field" id="nCbs" type="number" min="0" max="100" step="0.01" value="8">
+        <label for="nCred">Créditos no novo sistema (R$)</label><input class="field" id="nCred" type="number" min="0" step="0.01" value="0"></div>
+        <div class="sim-results"><span class="mini-label">COMPARAÇÃO (ILUSTRATIVA)</span><svg id="cmpChart" viewBox="0 0 320 190" role="img" aria-label="Gráfico comparando carga atual e novo sistema"></svg><div class="result-footer"><div><span>Atual (líquido)</span><strong id="rOld">–</strong></div><div><span>Novo: IBS + CBS (líquido)</span><strong id="rNew">–</strong></div></div><p class="legal-disclaimer" id="rDiff"></p><p class="legal-disclaimer">Simplificação didática: não considera regimes específicos, reduções, cashback, momento do crédito, split payment, “por fora”/“por dentro” nem as regras de transição.</p></div></div></section>
+
+    <section class="section" id="comparador"><div class="section-heading"><div><span class="eyebrow purple">COMPARADOR</span><h2>Antes e depois,<br><span class="muted-heading">lado a lado.</span></h2></div><p>Visão resumida dos tributos sobre consumo. Confira a redação vigente nas fontes oficiais.</p></div><div class="table-wrap"><table class="cmp"><thead><tr><th>Tributo</th><th>Competência</th><th>Situação na reforma</th></tr></thead><tbody id="cmpBody"></tbody></table></div>
+      <div class="cmp-cards"><article class="concept-card"><h3>Sistema anterior</h3><p>Vários tributos sobre o consumo, com legislação e administração separadas por ente federativo.</p></article><article class="concept-card featured"><h3>Novo modelo</h3><p>IVA dual (IBS + CBS) com regras gerais compartilhadas, não cumulatividade e tributação no destino, mais o Imposto Seletivo. Cronograma: veja a linha do tempo (2026–2033).</p></article></div></section>
+
+    <section class="section" id="faq"><div class="section-heading"><div><span class="eyebrow purple">PERGUNTAS FREQUENTES</span><h2>Dúvidas comuns,<br><span class="muted-heading">respostas simples.</span></h2></div><p>Conteúdo educativo, resumido. Não substitui a leitura da norma nem orientação profissional.</p></div><div id="faqList" class="faq"></div></section>
+
+    <section class="section" id="atualizacoes"><div class="section-heading"><div><span class="eyebrow purple">CENTRAL DE ATUALIZAÇÕES</span><h2>Acompanhe<br><span class="muted-heading">as normas.</span></h2></div><p><b>Dados demonstrativos:</b> não há integração automática com fontes oficiais. Os itens abaixo são marcos normativos; cadastre novos itens (salvos só no seu navegador).</p></div>
+      <div class="upd-tools"><input id="updFilter" class="field" type="search" placeholder="Filtrar por categoria ou texto" aria-label="Filtrar atualizações"></div><div id="updList" class="faq"></div>
+      <div class="sim-controls upd-form"><h3>Cadastrar atualização</h3><input class="field" id="uDate" type="date" aria-label="Data"><input class="field" id="uTitle" placeholder="Título" aria-label="Título"><select class="field" id="uCat" aria-label="Categoria"><option>Lei complementar</option><option>Regulamentação</option><option>Nota técnica</option><option>Ato normativo</option><option>Comunicado oficial</option><option>Cronograma</option><option>Alíquotas</option></select><textarea class="field" id="uSum" placeholder="Resumo" aria-label="Resumo"></textarea><input class="field" id="uLink" type="url" placeholder="Link da fonte oficial (https://...)" aria-label="Link"><button class="button button-primary" id="uAdd">Adicionar</button><small id="uMsg"></small></div></section>
+
+    <section class="section sources-section" id="fontes">
+      <div class="section-heading"><div><span class="eyebrow purple">07 — TRANSPARÊNCIA E FUNDAMENTAÇÃO</span><h2>Informação boa<br><span class="muted-heading">tem fonte.</span></h2></div><p>O TRIBUTA+ é um projeto independente de educação tributária. Consulte os textos oficiais para conferir a redação vigente e acompanhar atualizações.</p></div>
+      <div class="source-list">
+        <a href="https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm" target="_blank" rel="noopener"><span class="source-type">EMENDA CONSTITUCIONAL</span><strong>Emenda Constitucional nº 132/2023</strong><span>Reforma do Sistema Tributário Nacional ↗</span></a>
+        <a href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm" target="_blank" rel="noopener"><span class="source-type">LEI COMPLEMENTAR</span><strong>Lei Complementar nº 214/2025</strong><span>Institui IBS, CBS e Imposto Seletivo e disciplina aspectos centrais ↗</span></a>
+        <a href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm" target="_blank" rel="noopener"><span class="source-type">LEI COMPLEMENTAR</span><strong>Lei Complementar nº 227/2026</strong><span>Normas relativas à administração e à governança do IBS, entre outras disposições ↗</span></a>
+        <a href="https://www.gov.br/fazenda/pt-br/assuntos/reforma-tributaria" target="_blank" rel="noopener"><span class="source-type">PORTAL OFICIAL</span><strong>Ministério da Fazenda</strong><span>Portal oficial da Reforma Tributária ↗</span></a>
+        <a href="https://www.gov.br/receitafederal/pt-br" target="_blank" rel="noopener"><span class="source-type">ÓRGÃO FEDERAL</span><strong>Receita Federal do Brasil</strong><span>Orientações e notícias oficiais ↗</span></a>
+      </div>
+      <div class="methodology"><strong>Nota metodológica</strong><p>O conteúdo tem finalidade exclusivamente educativa e foi elaborado com base nas normas indicadas. A legislação e a regulamentação podem ser alteradas. Antes de tomar decisões fiscais, confirme a redação vigente, os atos regulamentares e a orientação de profissional habilitado. O simulador não realiza apuração tributária.</p><p><strong>Desenvolvimento:</strong> Giovanna Maria da Silva · Projeto independente de educação tributária · Versão 2.0 · Novembro de 2026.</p></div>
+    </section>
+
+    <section class="closing-cta"><div class="closing-orb"></div><span class="eyebrow">CONHECIMENTO TRANSFORMA</span><h2>Entender a Reforma<br>é o primeiro passo.</h2><p>Compartilhe conhecimento. Explore, aprenda e ajude a tornar o sistema tributário mais compreensível.</p><a class="button button-primary" href="#inicio">Voltar ao início ↑</a></section>
+  </main>
+  <footer><a class="brand footer-brand" href="#inicio"><span class="brand-mark">T<span>+</span></span><span>TRIBUTA<span class="brand-plus">+</span></span></a><span>Educação tributária para todos.</span><span>© 2026 TRIBUTA+ · Projeto independente</span></footer>
+
+  <dialog id="topicDialog" class="topic-dialog"><button class="dialog-close" id="closeDialog" aria-label="Fechar">×</button><span class="eyebrow purple">ENTENDA O CONCEITO</span><h2 id="dialogTitle"></h2><p id="dialogText"></p><div class="dialog-reference" id="dialogRef"></div></dialog>
+  <script src="script.js"></script>
+</body>
+</html>
