@@ -27,6 +27,81 @@
     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
   },
   {
+    "id": "rfb-legislacao-rtc",
+    "type": "listing",
+    "tipo": "Legislação e atos normativos (índice oficial)",
+    "orgao": "Receita Federal do Brasil",
+    "titulo": "Índice oficial de legislação da Reforma Tributária do Consumo",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/legislacao/",
+    "allowed_domains": [
+      "gov.br"
+    ],
+    "max_items": 100,
+    "keywords": [
+      "Emenda Constitucional",
+      "Lei Complementar",
+      "Decreto",
+      "Portaria",
+      "Resolução",
+      "Ato Conjunto",
+      "Ato Técnico",
+      "Instrução Normativa",
+      "Convênio",
+      "Nota Técnica",
+      "IBS",
+      "CBS",
+      "Imposto Seletivo",
+      "Reforma Tributária"
+    ]
+  },
+  {
+    "id": "rfb-atos-conjuntos",
+    "type": "listing",
+    "tipo": "Ato conjunto normativo/técnico",
+    "orgao": "Receita Federal e Comitê Gestor do IBS",
+    "titulo": "Atos Conjuntos RFB/CGIBS",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/legislacao/atos-conjuntos/",
+    "allowed_domains": [
+      "gov.br"
+    ],
+    "max_items": 100,
+    "keywords": [
+      "ATO CONJUNTO",
+      "ATO TÉCNICO",
+      "RFB/CGIBS",
+      "IBS",
+      "CBS",
+      "DeRE",
+      "Split Payment",
+      "documentos fiscais"
+    ]
+  },
+  {
+    "id": "cgibs-noticias-rtc",
+    "type": "listing",
+    "tipo": "Comunicado institucional (não equivale a norma)",
+    "orgao": "Comitê Gestor do IBS",
+    "titulo": "Comunicados e notícias do Comitê Gestor do IBS",
+    "url": "https://www.cgibs.gov.br/",
+    "allowed_domains": [
+      "cgibs.gov.br"
+    ],
+    "max_items": 60,
+    "keywords": [
+      "reforma tributária",
+      "IBS",
+      "CBS",
+      "alíquota",
+      "alíquotas",
+      "documentos fiscais",
+      "split payment",
+      "regimes específicos",
+      "regulamento",
+      "resolução",
+      "ato conjunto"
+    ]
+  },
+  {
     "id": "mf-noticias-rtc",
     "type": "listing",
     "tipo": "Notícia institucional (não equivale a norma)",
