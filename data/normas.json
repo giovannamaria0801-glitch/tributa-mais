@@ -9,19 +9,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "b40e41776a16780800f52f0a41ad293071dcceb92319c97296e98bcba3ebb558",
+   "hash": "be49c55df6c12a3050b522d5fce48d4737b6b81529cee5d9ad961772a280d4b4",
    "referencia": "• Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de trans",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "b40e41776a16780800f52f0a41ad293071dcceb92319c97296e98bcba3ebb558",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "b40e41776a16780800f52f0a41ad293071dcceb92319c97296e98bcba3ebb558"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "be49c55df6c12a3050b522d5fce48d4737b6b81529cee5d9ad961772a280d4b4"
     }
    ]
   },
@@ -34,19 +39,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "0ea1fceb737450fb9acf0802abcaf8ad7895879bad63ce64f3e1c95f93881d07",
+   "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951",
    "referencia": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nServiços e Informações do Brasil\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nServiços\nBuscar serviços por\nCategorias\nÓrgãos\nEstados\nServiços por público alvo\nCidadãos\nEmpresas\nÓrgãos e Entidades Públicas\nDemais segmentos (ONGs, organizações sociais, etc)\nServidor Público\nTemas em Destaque\nOrçamento Nacional\nRedes de Atendimento da Administração Pública Federal\nProteção de Dados ",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "0ea1fceb737450fb9acf0802abcaf8ad7895879bad63ce64f3e1c95f93881d07",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "0ea1fceb737450fb9acf0802abcaf8ad7895879bad63ce64f3e1c95f93881d07"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951"
     }
    ]
   },
@@ -66,7 +76,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -84,14 +94,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "34ca021dea1baedc7e714096f2a3d45bc96df162a3dd858a5aac24e05b9595ae",
+   "hash": "b861b7200d4871b93219da14f4781f68aef9673efd9de9386cd8692aa713f515",
    "referencia": "Programa da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\n",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "75dde864ee2490552e2a1c7746b2e7a78b3fa858b85c90a9e32679c11da6ca63",
+   "versao_anterior": "34ca021dea1baedc7e714096f2a3d45bc96df162a3dd858a5aac24e05b9595ae",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -102,6 +112,11 @@
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "alterada",
      "hash": "34ca021dea1baedc7e714096f2a3d45bc96df162a3dd858a5aac24e05b9595ae"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "b861b7200d4871b93219da14f4781f68aef9673efd9de9386cd8692aa713f515"
     }
    ]
   },
@@ -114,19 +129,24 @@
    "publicado_em": "14/10/2024",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/convenios-e-transferencias",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "6458779bdefc09c428602906896afa2620f7188ff03289092ea08445908d7176",
+   "hash": "af4d273d904cb9cc5f8649589927ac1e252e8a6265af5ac0762888ba1a39179a",
    "referencia": "Convênios e Transferências — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "6458779bdefc09c428602906896afa2620f7188ff03289092ea08445908d7176",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "6458779bdefc09c428602906896afa2620f7188ff03289092ea08445908d7176"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "af4d273d904cb9cc5f8649589927ac1e252e8a6265af5ac0762888ba1a39179a"
     }
    ]
   },
@@ -139,19 +159,24 @@
    "publicado_em": "24/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "32e2e6708687fb5a64c2568fff0985491337a78602ca05b13aeb35c0b6fb6c5d",
+   "hash": "aacea6c51709e772d0799100375e3962e3ebc1d0f2c704a19300b4ebc73d7d4c",
    "referencia": "Piloto da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFa",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "32e2e6708687fb5a64c2568fff0985491337a78602ca05b13aeb35c0b6fb6c5d",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "32e2e6708687fb5a64c2568fff0985491337a78602ca05b13aeb35c0b6fb6c5d"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "aacea6c51709e772d0799100375e3962e3ebc1d0f2c704a19300b4ebc73d7d4c"
     }
    ]
   },
@@ -164,19 +189,24 @@
    "publicado_em": "16/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "093746b8202b5ad1c0c2b7e183e2c448bb03f397d8b35865d5a3ea60ea571ac8",
+   "hash": "283cd66e1c4310ec55123ef23be4f212c5a7d6070865267245c301d4777a8d9f",
    "referencia": "Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de transaç",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "093746b8202b5ad1c0c2b7e183e2c448bb03f397d8b35865d5a3ea60ea571ac8",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "093746b8202b5ad1c0c2b7e183e2c448bb03f397d8b35865d5a3ea60ea571ac8"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "283cd66e1c4310ec55123ef23be4f212c5a7d6070865267245c301d4777a8d9f"
     }
    ]
   },
@@ -196,7 +226,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -221,7 +251,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -246,7 +276,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -271,7 +301,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -296,7 +326,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -321,7 +351,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -339,19 +369,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/embora-os-periodos-sejam-parecidos-tratam-de-escolhas-diferentes-por-isso-e-importante-entender-cada-situacao",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "dcec1cb802c8db6373e28dedbe8eb20e58691792d4cf7265698e8f9a43d60142",
-   "referencia": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do",
+   "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
+   "referencia": "Falha ao obter o conteúdo integral da publicação: RuntimeError",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "dcec1cb802c8db6373e28dedbe8eb20e58691792d4cf7265698e8f9a43d60142",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "dcec1cb802c8db6373e28dedbe8eb20e58691792d4cf7265698e8f9a43d60142"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b"
     }
    ]
   },
@@ -364,19 +399,24 @@
    "publicado_em": "20/05/2026",
    "url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/institucional/comissao-de-etica",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216",
+   "hash": "e8745bfa391a4920697ebdef5911930f2af5784930cfd7a81440ff289a5a689e",
    "referencia": "Comissão de Ética — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Multilaterais\nRecursos\nFundo Verde do Clima (GCF)",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "e8745bfa391a4920697ebdef5911930f2af5784930cfd7a81440ff289a5a689e"
     }
    ]
   },
@@ -389,19 +429,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/institucional/perfis-profissionais-pdf",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e",
+   "hash": "c30335858d56f8060c5dd6ffef8b5e6aa58f80a076542d06d4f185024a6b1c80",
    "referencia": "Perfis Profissionais — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Multilaterais\nRecursos\nFundo Verde do Clima (G",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "c30335858d56f8060c5dd6ffef8b5e6aa58f80a076542d06d4f185024a6b1c80"
     }
    ]
   },
@@ -414,19 +459,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria/estudos",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd",
+   "hash": "796ab97e7598fde924f97a07be2118dbffa27d05e76f2987f5b0ffa098292a6f",
    "referencia": "Estudos - Ministerio da Fazenda — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Multilaterais\nRecursos\nFundo Verde ",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "796ab97e7598fde924f97a07be2118dbffa27d05e76f2987f5b0ffa098292a6f"
     }
    ]
   },
@@ -446,7 +496,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -471,7 +521,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -489,19 +539,24 @@
    "publicado_em": "10/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/ministerios-da-fazenda-da-espanha-e-do-brasil-assinam-memorando-de-entendimento-para-impulsionar-a-tributacao-dos-super-ricos",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "cf1d26416b97d33edc8c6483f0f6980cde4a53d2f1c99e61f4b37538db4b6329",
+   "hash": "a8196bc2d4393bc4ce602504f6bf442e0079a8e7e1500119e582b6cd615abec9",
    "referencia": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o C",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "cf1d26416b97d33edc8c6483f0f6980cde4a53d2f1c99e61f4b37538db4b6329",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "cf1d26416b97d33edc8c6483f0f6980cde4a53d2f1c99e61f4b37538db4b6329"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "a8196bc2d4393bc4ce602504f6bf442e0079a8e7e1500119e582b6cd615abec9"
     }
    ]
   },
@@ -514,19 +569,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/fazenda/pt-br/@@search?SearchableText=TRIBUTA%C3%87%C3%83O",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "ebdd0bfdc989433c528f26c65fee4fa56b6add7b89662d44ac52708cba721e83",
+   "hash": "1fcf03dcfe1135526a8f40e13aaf511491452eb4ab5bb00db6d00395faf636b7",
    "referencia": "Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Multilaterais\nRecursos\nFundo Verde do Clima (GCF)\nFundo Global para o",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "ebdd0bfdc989433c528f26c65fee4fa56b6add7b89662d44ac52708cba721e83",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "ebdd0bfdc989433c528f26c65fee4fa56b6add7b89662d44ac52708cba721e83"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "1fcf03dcfe1135526a8f40e13aaf511491452eb4ab5bb00db6d00395faf636b7"
     }
    ]
   },
@@ -539,19 +599,24 @@
    "publicado_em": "09/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "1c6d01645797c8c5573dd7d30ab6f90fd417aba405e1ff107f02fea9c251a72a",
+   "hash": "c25bb9ea73bd203a13815d936fffb1f0a6bd577085b5b870d5d5c4383aa1aa8e",
    "referencia": "Receita Federal libera acesso às novas APIs de apuração da CBS — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Mult",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "1c6d01645797c8c5573dd7d30ab6f90fd417aba405e1ff107f02fea9c251a72a",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "1c6d01645797c8c5573dd7d30ab6f90fd417aba405e1ff107f02fea9c251a72a"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "c25bb9ea73bd203a13815d936fffb1f0a6bd577085b5b870d5d5c4383aa1aa8e"
     }
    ]
   },
@@ -589,19 +654,24 @@
    "publicado_em": "05/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "6ad215d55c44c02d170f37d4146ea204de1df52ef5194ec56e51c32da1b94d2e",
+   "hash": "1e095ab8e21303b4ef65264bf561704076a4ea56ea4e9eb4843e83c09fb8d23f",
    "referencia": "Governo Federal define alíquotas do Imposto Seletivo para 2027 por meio de medida provisória — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sust",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "6ad215d55c44c02d170f37d4146ea204de1df52ef5194ec56e51c32da1b94d2e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "6ad215d55c44c02d170f37d4146ea204de1df52ef5194ec56e51c32da1b94d2e"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "1e095ab8e21303b4ef65264bf561704076a4ea56ea4e9eb4843e83c09fb8d23f"
     }
    ]
   },
@@ -614,19 +684,24 @@
    "publicado_em": "24/03/2022",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/tributacao-2",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "1afeecb8d415ea373fcda904cfd2edc0515e56e78f3625ac2e007d715e8f624f",
+   "hash": "2be8712db859c2f87a9c0919a8a15b5ab8733319240d67eb9fdb7312a3d0f279",
    "referencia": "Tributação — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de transação\nRevis",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "1afeecb8d415ea373fcda904cfd2edc0515e56e78f3625ac2e007d715e8f624f",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "1afeecb8d415ea373fcda904cfd2edc0515e56e78f3625ac2e007d715e8f624f"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "2be8712db859c2f87a9c0919a8a15b5ab8733319240d67eb9fdb7312a3d0f279"
     }
    ]
   },
@@ -646,7 +721,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -664,19 +739,24 @@
    "publicado_em": "10/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "0d0798edaf5bce1f58d3cb19e64fdd4b2901d88c2257422e03cecd97a9c74e3a",
+   "hash": "b0cc5cc00d95f061eebc4a09701ebf2f26cbe6fd06c9da2ee95808f8d2356087",
    "referencia": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "0d0798edaf5bce1f58d3cb19e64fdd4b2901d88c2257422e03cecd97a9c74e3a",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "0d0798edaf5bce1f58d3cb19e64fdd4b2901d88c2257422e03cecd97a9c74e3a"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "b0cc5cc00d95f061eebc4a09701ebf2f26cbe6fd06c9da2ee95808f8d2356087"
     }
    ]
   },
@@ -689,19 +769,24 @@
    "publicado_em": "09/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "e31b74c71886cb694c567bf403118256973903e5cea053cfc16c6e35b66133bb",
+   "hash": "1dcfb50eb8417f5c46def0c5a321467b3f46495f4f056fb1b657195f3c55361d",
    "referencia": "Receita Federal libera acesso às novas APIs de apuração da CBS — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nCon",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "e31b74c71886cb694c567bf403118256973903e5cea053cfc16c6e35b66133bb",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "e31b74c71886cb694c567bf403118256973903e5cea053cfc16c6e35b66133bb"
+    },
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "1dcfb50eb8417f5c46def0c5a321467b3f46495f4f056fb1b657195f3c55361d"
     }
    ]
   },
@@ -746,7 +831,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-11T11:47:01+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -754,8 +839,108 @@
      "hash": "3cb8ae9b39d960efd7eccbfc7ee2134ac1869a2ad33a6d911a9c5672fad540fb"
     }
    ]
+  },
+  {
+   "id": "13fa2a6f8138",
+   "titulo": "Emenda Constitucional nº 132/2023",
+   "tipo": "Emenda Constitucional",
+   "orgao": "Presidência da República (Planalto)",
+   "numero": "132/2023",
+   "publicado_em": null,
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+   "fonte_id": "planalto-ec132",
+   "hash": "179b991204848cc94926c16461ef3d6917378e366e0b87aa1c45d2c06f86b455",
+   "referencia": "Página Inicial — Planalto\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nPlanalto\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAcesso à Informação\nInstitucional\nEstrutura da Presidência\nCompetências\nBase Jurídica\nQUEM É QUEM | Principais cargos e respectivos ocupantes\nPerfil Profissional\nAtos normativos\nHorários de atendimento do órgão\nGabinete Pessoal do Presidente da República\nAssessoria Especial do Presidente da República\nAções e Programas\nProgramas, Projetos, Ações, Obras e Atividades\nCarta de Ser",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "identificada",
+     "hash": "179b991204848cc94926c16461ef3d6917378e366e0b87aa1c45d2c06f86b455"
+    }
+   ]
+  },
+  {
+   "id": "b42e54ebdaae",
+   "titulo": "Acordos e Convênios",
+   "tipo": "Legislação e atos normativos (índice oficial)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "25/11/2014",
+   "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/convenios-e-transferencias/copy_of_capa-convenios",
+   "fonte_id": "rfb-legislacao-rtc",
+   "hash": "70fc9dab7f5ffa61603404a04f08a520b6f0be1f394e5bb13e00adeaaf0b34b2",
+   "referencia": "Acordos e Convênios — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de transa",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "identificada",
+     "hash": "70fc9dab7f5ffa61603404a04f08a520b6f0be1f394e5bb13e00adeaaf0b34b2"
+    }
+   ]
+  },
+  {
+   "id": "5216a1fe80d2",
+   "titulo": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "11/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-orgaos-parceiros-detalham-proximos-passos-da-reforma-tributaria",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "7b94f83977219e325fba890129cd1fd222c0ea201c0becea6a77e84cb48688af",
+   "referencia": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFun",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "identificada",
+     "hash": "7b94f83977219e325fba890129cd1fd222c0ea201c0becea6a77e84cb48688af"
+    }
+   ]
+  },
+  {
+   "id": "64117eed55d2",
+   "titulo": "REFORMA TRIBUTÁRIA",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.gov.br/fazenda/pt-br/@@search?SearchableText=REFORMA%20TRIBUT%C3%81RIA",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "1fcf03dcfe1135526a8f40e13aaf511491452eb4ab5bb00db6d00395faf636b7",
+   "referencia": "Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundos Climáticos Multilaterais\nRecursos\nFundo Verde do Clima (GCF)\nFundo Global para o",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-12T11:48:44+00:00",
+     "evento": "identificada",
+     "hash": "1fcf03dcfe1135526a8f40e13aaf511491452eb4ab5bb00db6d00395faf636b7"
+    }
+   ]
   }
  ],
- "ultima_verificacao": "2026-11-11T11:47:01+00:00",
+ "ultima_verificacao": "2026-11-12T11:48:44+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
