@@ -192,7 +192,6 @@ Congressos
 Ouvidoria
 Auditorias
 Convênios e Transferências
-Acordos e Convênios
 Receitas e Despesas
 Licitações, Contratos e Chamamentos Públicos
 Avisos de Edital de Leilao
@@ -595,7 +594,6 @@ Congressos
 Ouvidoria
 Auditorias
 Convênios e Transferências
-Acordos e Convênios
 Receitas e Despesas
 Licitações, Contratos e Chamamentos Públicos
 Avisos de Edital de Leilao

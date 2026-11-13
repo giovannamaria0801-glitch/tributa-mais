@@ -192,7 +192,6 @@ Congressos
 Ouvidoria
 Auditorias
 Convênios e Transferências
-Acordos e Convênios
 Receitas e Despesas
 Licitações, Contratos e Chamamentos Públicos
 Avisos de Edital de Leilao
@@ -422,21 +421,19 @@ Convênios e Transferências
 Info
 Convênios e Transferências
 Nesta seção são divulgadas informações sobre os convênios e repasses ou transferências de recursos efetuados pela Receita Federal.
+Publicado em
+14/10/2024 11h34
+Atualizado em
+11/11/2026 18h04
 Acordos, Convênios e Solicitações de Compartilhamento
 Consulte instrumentos de cooperação celebrados e solicitações de compartilhamento de dados realizados.
 Repasses e Transferências de Recursos Financeiros
 Nesta seção são divulgadas informações sobre repasses e transferências de recursos financeiros.
-Serviços Digitais para Entidades Conveniadas e Parceiros
-Acesse sistemas utilizados por entidades conveniadas e parceiras da Receita Federal.
 Leiaute de Dados Compartilhados com Órgãos Públicos
 Portaria da Receita Federal e anexos contendo o leiaute dos dados compartilhados com órgãos e entidades da Administração Pública Federal.
-Acordos e Convênios
-Compartilhe:
-Compartilhe por Facebook
-Compartilhe por Twitter
-Compartilhe por LinkedIn
-Compartilhe por WhatsApp
-link para Copiar para área de transferência
+Serviços Digitais para Entidades Conveniadas e Parceiros
+Acesse sistemas utilizados por entidades conveniadas e parceiras da Receita Federal.
+Modelos de Convênios
 Assuntos
 Notícias
 Todas as notícias
@@ -601,7 +598,6 @@ Congressos
 Ouvidoria
 Auditorias
 Convênios e Transferências
-Acordos e Convênios
 Receitas e Despesas
 Licitações, Contratos e Chamamentos Públicos
 Avisos de Edital de Leilao

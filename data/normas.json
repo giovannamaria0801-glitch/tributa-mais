@@ -9,14 +9,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "be49c55df6c12a3050b522d5fce48d4737b6b81529cee5d9ad961772a280d4b4",
+   "hash": "867de23b7897e341d43458f2ec264555e0d292cec4d044ea66ff85d952b37b54",
    "referencia": "• Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de trans",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "b40e41776a16780800f52f0a41ad293071dcceb92319c97296e98bcba3ebb558",
+   "versao_anterior": "be49c55df6c12a3050b522d5fce48d4737b6b81529cee5d9ad961772a280d4b4",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -27,6 +27,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "be49c55df6c12a3050b522d5fce48d4737b6b81529cee5d9ad961772a280d4b4"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "867de23b7897e341d43458f2ec264555e0d292cec4d044ea66ff85d952b37b54"
     }
    ]
   },
@@ -46,7 +51,7 @@
    "versao_anterior": "0ea1fceb737450fb9acf0802abcaf8ad7895879bad63ce64f3e1c95f93881d07",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -76,7 +81,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -94,14 +99,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "b861b7200d4871b93219da14f4781f68aef9673efd9de9386cd8692aa713f515",
+   "hash": "6d22009ee7cf757a1eb57e698d8c0ccc5bf25ffc7f40dcae49892876e32ce8d8",
    "referencia": "Programa da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\n",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "34ca021dea1baedc7e714096f2a3d45bc96df162a3dd858a5aac24e05b9595ae",
+   "versao_anterior": "b861b7200d4871b93219da14f4781f68aef9673efd9de9386cd8692aa713f515",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -117,6 +122,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "b861b7200d4871b93219da14f4781f68aef9673efd9de9386cd8692aa713f515"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "6d22009ee7cf757a1eb57e698d8c0ccc5bf25ffc7f40dcae49892876e32ce8d8"
     }
    ]
   },
@@ -129,14 +139,14 @@
    "publicado_em": "14/10/2024",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/convenios-e-transferencias",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "af4d273d904cb9cc5f8649589927ac1e252e8a6265af5ac0762888ba1a39179a",
+   "hash": "b8a096907dd6e441c3809a4de7f21c60aa39a452887a8bb9dd5204409fad46e3",
    "referencia": "Convênios e Transferências — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "6458779bdefc09c428602906896afa2620f7188ff03289092ea08445908d7176",
+   "versao_anterior": "af4d273d904cb9cc5f8649589927ac1e252e8a6265af5ac0762888ba1a39179a",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -147,6 +157,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "af4d273d904cb9cc5f8649589927ac1e252e8a6265af5ac0762888ba1a39179a"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "b8a096907dd6e441c3809a4de7f21c60aa39a452887a8bb9dd5204409fad46e3"
     }
    ]
   },
@@ -159,14 +174,14 @@
    "publicado_em": "24/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "aacea6c51709e772d0799100375e3962e3ebc1d0f2c704a19300b4ebc73d7d4c",
+   "hash": "9350813d9a63d2a01a849b09b7dcef973ff411ba751b7ce7be369c9454df7890",
    "referencia": "Piloto da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFa",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "32e2e6708687fb5a64c2568fff0985491337a78602ca05b13aeb35c0b6fb6c5d",
+   "versao_anterior": "aacea6c51709e772d0799100375e3962e3ebc1d0f2c704a19300b4ebc73d7d4c",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -177,6 +192,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "aacea6c51709e772d0799100375e3962e3ebc1d0f2c704a19300b4ebc73d7d4c"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "9350813d9a63d2a01a849b09b7dcef973ff411ba751b7ce7be369c9454df7890"
     }
    ]
   },
@@ -189,14 +209,14 @@
    "publicado_em": "16/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "283cd66e1c4310ec55123ef23be4f212c5a7d6070865267245c301d4777a8d9f",
+   "hash": "acdf5ca93415c35e98367d16ca551d4abcbb7b3ae6f41e320e1458925e2fac52",
    "referencia": "Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de transaç",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "093746b8202b5ad1c0c2b7e183e2c448bb03f397d8b35865d5a3ea60ea571ac8",
+   "versao_anterior": "283cd66e1c4310ec55123ef23be4f212c5a7d6070865267245c301d4777a8d9f",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -207,6 +227,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "283cd66e1c4310ec55123ef23be4f212c5a7d6070865267245c301d4777a8d9f"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "acdf5ca93415c35e98367d16ca551d4abcbb7b3ae6f41e320e1458925e2fac52"
     }
    ]
   },
@@ -226,7 +251,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -251,7 +276,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -269,19 +294,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "15cc8683a13102a45dd25fe086cc54162c1dcf6d7e9ef00480296164969c2728",
-   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conteúdo\nComitê Gestor do IBS e União assinam contrato de operação de crédito para financiar a implantação ",
+   "hash": "074e1340166a351b61a5b0328e6cae6b25f0b8b53aded5e7284da418fc9ca88e",
+   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conteúdo\nCGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião ",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "15cc8683a13102a45dd25fe086cc54162c1dcf6d7e9ef00480296164969c2728",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "15cc8683a13102a45dd25fe086cc54162c1dcf6d7e9ef00480296164969c2728"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "074e1340166a351b61a5b0328e6cae6b25f0b8b53aded5e7284da418fc9ca88e"
     }
    ]
   },
@@ -301,7 +331,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -326,7 +356,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -351,7 +381,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -406,7 +436,7 @@
    "versao_anterior": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -436,7 +466,7 @@
    "versao_anterior": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -466,7 +496,7 @@
    "versao_anterior": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -496,7 +526,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -521,7 +551,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -546,7 +576,7 @@
    "versao_anterior": "cf1d26416b97d33edc8c6483f0f6980cde4a53d2f1c99e61f4b37538db4b6329",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -576,7 +606,7 @@
    "versao_anterior": "ebdd0bfdc989433c528f26c65fee4fa56b6add7b89662d44ac52708cba721e83",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -606,7 +636,7 @@
    "versao_anterior": "1c6d01645797c8c5573dd7d30ab6f90fd417aba405e1ff107f02fea9c251a72a",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -661,7 +691,7 @@
    "versao_anterior": "6ad215d55c44c02d170f37d4146ea204de1df52ef5194ec56e51c32da1b94d2e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -684,14 +714,14 @@
    "publicado_em": "24/03/2022",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/tributacao-2",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "2be8712db859c2f87a9c0919a8a15b5ab8733319240d67eb9fdb7312a3d0f279",
+   "hash": "ecc2e8434bc050733ae61de6c2fac0f975377dd5133829b700437fbb4ccfe33b",
    "referencia": "Tributação — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acordo de transação\nRevis",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "1afeecb8d415ea373fcda904cfd2edc0515e56e78f3625ac2e007d715e8f624f",
+   "versao_anterior": "2be8712db859c2f87a9c0919a8a15b5ab8733319240d67eb9fdb7312a3d0f279",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -702,6 +732,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "2be8712db859c2f87a9c0919a8a15b5ab8733319240d67eb9fdb7312a3d0f279"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "ecc2e8434bc050733ae61de6c2fac0f975377dd5133829b700437fbb4ccfe33b"
     }
    ]
   },
@@ -721,7 +756,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -739,14 +774,14 @@
    "publicado_em": "10/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "b0cc5cc00d95f061eebc4a09701ebf2f26cbe6fd06c9da2ee95808f8d2356087",
+   "hash": "fb7cc576bf5b26eddb9fc4a3250379131c23c9abc716431c5a72ee16d66b6c93",
    "referencia": "Reforma Tributária: Atualização do Ambiente Beta da DeRE — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "0d0798edaf5bce1f58d3cb19e64fdd4b2901d88c2257422e03cecd97a9c74e3a",
+   "versao_anterior": "b0cc5cc00d95f061eebc4a09701ebf2f26cbe6fd06c9da2ee95808f8d2356087",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -757,6 +792,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "b0cc5cc00d95f061eebc4a09701ebf2f26cbe6fd06c9da2ee95808f8d2356087"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "fb7cc576bf5b26eddb9fc4a3250379131c23c9abc716431c5a72ee16d66b6c93"
     }
    ]
   },
@@ -769,14 +809,14 @@
    "publicado_em": "09/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "1dcfb50eb8417f5c46def0c5a321467b3f46495f4f056fb1b657195f3c55361d",
+   "hash": "89bac37aaa275cb79ac9983b14d042c6ba07ae63bd4f11762f0cd3e89f4ee864",
    "referencia": "Receita Federal libera acesso às novas APIs de apuração da CBS — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nCon",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "e31b74c71886cb694c567bf403118256973903e5cea053cfc16c6e35b66133bb",
+   "versao_anterior": "1dcfb50eb8417f5c46def0c5a321467b3f46495f4f056fb1b657195f3c55361d",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -787,6 +827,11 @@
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "alterada",
      "hash": "1dcfb50eb8417f5c46def0c5a321467b3f46495f4f056fb1b657195f3c55361d"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "89bac37aaa275cb79ac9983b14d042c6ba07ae63bd4f11762f0cd3e89f4ee864"
     }
    ]
   },
@@ -831,7 +876,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -849,19 +894,24 @@
    "publicado_em": null,
    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
    "fonte_id": "planalto-ec132",
-   "hash": "179b991204848cc94926c16461ef3d6917378e366e0b87aa1c45d2c06f86b455",
+   "hash": "1e5308c9c33a80c2d0e28bc5472378dbed01eab530f7ffdfa25d67519456cc97",
    "referencia": "Página Inicial — Planalto\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nPlanalto\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAcesso à Informação\nInstitucional\nEstrutura da Presidência\nCompetências\nBase Jurídica\nQUEM É QUEM | Principais cargos e respectivos ocupantes\nPerfil Profissional\nAtos normativos\nHorários de atendimento do órgão\nGabinete Pessoal do Presidente da República\nAssessoria Especial do Presidente da República\nAções e Programas\nProgramas, Projetos, Ações, Obras e Atividades\nCarta de Ser",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "179b991204848cc94926c16461ef3d6917378e366e0b87aa1c45d2c06f86b455",
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
      "evento": "identificada",
      "hash": "179b991204848cc94926c16461ef3d6917378e366e0b87aa1c45d2c06f86b455"
+    },
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "alterada",
+     "hash": "1e5308c9c33a80c2d0e28bc5472378dbed01eab530f7ffdfa25d67519456cc97"
     }
    ]
   },
@@ -906,7 +956,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
@@ -931,7 +981,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-12T11:48:44+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
@@ -939,8 +989,58 @@
      "hash": "1fcf03dcfe1135526a8f40e13aaf511491452eb4ab5bb00db6d00395faf636b7"
     }
    ]
+  },
+  {
+   "id": "faa299c7ee9c",
+   "titulo": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária",
+   "tipo": "Comunicado institucional (não equivale a norma)",
+   "orgao": "Comitê Gestor do IBS",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
+   "fonte_id": "cgibs-noticias-rtc",
+   "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
+   "referencia": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício ",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-13T11:46:42+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
+   "historico": [
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "identificada",
+     "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9"
+    }
+   ]
+  },
+  {
+   "id": "777d7958aea7",
+   "titulo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
+   "tipo": "Comunicado institucional (não equivale a norma)",
+   "orgao": "Comitê Gestor do IBS",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario",
+   "fonte_id": "cgibs-noticias-rtc",
+   "hash": "a1b3e9200caa56df0efffb822589af1095b53a3667f02dd84564f267458f4c60",
+   "referencia": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nIníc",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-13T11:46:42+00:00",
+   "atualizado_em": "2026-11-13T11:46:42+00:00",
+   "verificado_em": "2026-11-13T11:46:42+00:00",
+   "historico": [
+    {
+     "em": "2026-11-13T11:46:42+00:00",
+     "evento": "identificada",
+     "hash": "a1b3e9200caa56df0efffb822589af1095b53a3667f02dd84564f267458f4c60"
+    }
+   ]
   }
  ],
- "ultima_verificacao": "2026-11-12T11:48:44+00:00",
+ "ultima_verificacao": "2026-11-13T11:46:42+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
