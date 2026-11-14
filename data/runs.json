@@ -160,5 +160,59 @@
   "alterados": 10,
   "fim": "2026-11-13T11:49:29+00:00",
   "ia": false
+ },
+ {
+  "inicio": "2026-11-14T11:27:22+00:00",
+  "fontes": [
+   {
+    "id": "planalto-ec132",
+    "ok": true,
+    "itens": 1
+   },
+   {
+    "id": "planalto-lc214",
+    "ok": true,
+    "itens": 1
+   },
+   {
+    "id": "planalto-lc227",
+    "ok": true,
+    "itens": 1
+   },
+   {
+    "id": "rfb-legislacao-rtc",
+    "ok": true,
+    "itens": 7
+   },
+   {
+    "id": "rfb-atos-conjuntos",
+    "ok": true,
+    "itens": 8
+   },
+   {
+    "id": "cgibs-noticias-rtc",
+    "ok": true,
+    "itens": 6
+   },
+   {
+    "id": "mf-noticias-rtc",
+    "ok": true,
+    "itens": 19
+   },
+   {
+    "id": "rfb-noticias-rtc",
+    "ok": true,
+    "itens": 12
+   },
+   {
+    "id": "svrs-documentos-nfe",
+    "ok": true,
+    "itens": 1
+   }
+  ],
+  "novos": 4,
+  "alterados": 2,
+  "fim": "2026-11-14T11:30:30+00:00",
+  "ia": false
  }
 ]
