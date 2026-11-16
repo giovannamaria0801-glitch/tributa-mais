@@ -172,19 +172,20 @@ Planejamento Estratégico
 Relações Internacionais
 Ações e Programas
 Ações, Atividades, Obras, Programas e Projetos
-Carta de Serviços
 Governança
+Carta de Serviços
 Cidadania Fiscal
 Confia
+CNPJ
 Devedor Contumaz
 É Golpe?
 Isenções e Outros Benefícios
 Operador Econômico Autorizado
 Painel Receita
+Prêmio de Criatividade e Inovação (PCI)
 Receita Sintonia
 Reforma Tributária do Consumo
 Remessa Conforme
-CNPJ da Pessoa Física
 Participação Social
 Audiências e Consultas Públicas
 Conselhos e Órgãos Colegiados
@@ -239,7 +240,6 @@ Presencial
 E-mail
 Online (Chat)
 Fale Conosco
-Lista de Serviços
 Conveniados
 Alfândegas
 Imprensa
@@ -265,6 +265,7 @@ Modelos de Documentos
 Reforma Tributária
 Imagens
 Fotos do IV Congresso de Direito Tributário e Aduaneiro
+Planilhas
 Painéis
 Aduana e Comércio Exterior
 Arrecadação e Cobrança
@@ -283,6 +284,7 @@ Publicações
 Acordos de Cooperação
 Apresentações
 Documentos Técnicos
+eBooks
 Estudos Tributários e Aduaneiros
 Folheteria
 Guias e Roteiros
@@ -300,6 +302,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
+Vídeos das Histórias de Trabalho
 Portais Relacionados
 Empresas e Negócios
 ENAT
@@ -574,19 +577,20 @@ Planejamento Estratégico
 Relações Internacionais
 Ações e Programas
 Ações, Atividades, Obras, Programas e Projetos
-Carta de Serviços
 Governança
+Carta de Serviços
 Cidadania Fiscal
 Confia
+CNPJ
 Devedor Contumaz
 É Golpe?
 Isenções e Outros Benefícios
 Operador Econômico Autorizado
 Painel Receita
+Prêmio de Criatividade e Inovação (PCI)
 Receita Sintonia
 Reforma Tributária do Consumo
 Remessa Conforme
-CNPJ da Pessoa Física
 Participação Social
 Audiências e Consultas Públicas
 Conselhos e Órgãos Colegiados
@@ -641,7 +645,6 @@ Presencial
 E-mail
 Online (Chat)
 Fale Conosco
-Lista de Serviços
 Conveniados
 Alfândegas
 Imprensa
@@ -667,6 +670,7 @@ Modelos de Documentos
 Reforma Tributária
 Imagens
 Fotos do IV Congresso de Direito Tributário e Aduaneiro
+Planilhas
 Painéis
 Aduana e Comércio Exterior
 Arrecadação e Cobrança
@@ -685,6 +689,7 @@ Publicações
 Acordos de Cooperação
 Apresentações
 Documentos Técnicos
+eBooks
 Estudos Tributários e Aduaneiros
 Folheteria
 Guias e Roteiros
@@ -702,6 +707,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
+Vídeos das Histórias de Trabalho
 Portais Relacionados
 Empresas e Negócios
 ENAT

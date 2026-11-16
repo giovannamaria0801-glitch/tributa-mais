@@ -29,6 +29,7 @@ Desenrola Brasil
 mei
 assinatura
 Assuntos
+Catálogo de Serviços
 Notícias
 Todas as notícias
 Arrecadação e Cobrança
@@ -172,19 +173,20 @@ Planejamento Estratégico
 Relações Internacionais
 Ações e Programas
 Ações, Atividades, Obras, Programas e Projetos
-Carta de Serviços
 Governança
+Carta de Serviços
 Cidadania Fiscal
 Confia
+CNPJ
 Devedor Contumaz
 É Golpe?
 Isenções e Outros Benefícios
 Operador Econômico Autorizado
 Painel Receita
+Prêmio de Criatividade e Inovação (PCI)
 Receita Sintonia
 Reforma Tributária do Consumo
 Remessa Conforme
-CNPJ da Pessoa Física
 Participação Social
 Audiências e Consultas Públicas
 Conselhos e Órgãos Colegiados
@@ -239,7 +241,6 @@ Presencial
 E-mail
 Online (Chat)
 Fale Conosco
-Lista de Serviços
 Conveniados
 Alfândegas
 Imprensa
@@ -265,6 +266,7 @@ Modelos de Documentos
 Reforma Tributária
 Imagens
 Fotos do IV Congresso de Direito Tributário e Aduaneiro
+Planilhas
 Painéis
 Aduana e Comércio Exterior
 Arrecadação e Cobrança
@@ -283,6 +285,7 @@ Publicações
 Acordos de Cooperação
 Apresentações
 Documentos Técnicos
+eBooks
 Estudos Tributários e Aduaneiros
 Folheteria
 Guias e Roteiros
@@ -300,6 +303,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
+Vídeos das Histórias de Trabalho
 Portais Relacionados
 Empresas e Negócios
 ENAT
@@ -434,14 +438,17 @@ Compartilhe por WhatsApp
 link para Copiar para área de transferência
 Publicado em
 13/11/2026 11h44
-O PGDAS-D foi atualizado para atender às mudanças da Reforma Tributária sobre o Consumo e às normas que adaptaram o Simples Nacional. A atualização permite que o sistema calcule as informações necessárias para o preenchimento dos documentos fiscais eletrônicos.,
-A partir dos períodos de apuração (PA) 11/2026 e 12/2026, passam a valer duas mudanças:
+Atualizado em
+16/11/2026 17h17
+O PGDAS-D foi atualizado para atender às mudanças da Reforma Tributária sobre o Consumo e às normas que adaptaram o Simples Nacional. A atualização permite que o sistema calcule as informações necessárias para o preenchimento dos documentos fiscais eletrônicos.
+A partir dos períodos de apuração (PA) 11/2026 e 12/2026, passaram a valer duas mudanças:
 Regime de apuração: não será mais necessário escolher entre os regimes de caixa e de competência. A partir de 2027, todas as apurações serão feitas pelo regime de competência.
-Folha de salários: será necessário informar a folha de salários dos últimos 12 meses (FS12) para todas as atividades do Simples Nacional.
+Folha de salários: exclusivamente nos períodos de apuração novembro e dezembro/2026 será necessário informar a folha de salários dos últimos 12 meses (FS12) para todas as atividades do Simples Nacional.
 As informações declaradas no PGDAS-D também serão usadas para determinar as alíquotas efetivas do IBS e da CBS, que deverão constar nos documentos fiscais eletrônicos.
 Com essas mudanças, o sistema busca garantir o cálculo correto dos tributos do Simples Nacional e o preenchimento adequado das informações tributárias nos documentos fiscais.
 Categoria
 Impostos e Obrigações
+Tags: RTC
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter
@@ -449,6 +456,7 @@ Compartilhe por LinkedIn
 Compartilhe por WhatsApp
 link para Copiar para área de transferência
 Assuntos
+Catálogo de Serviços
 Notícias
 Todas as notícias
 Arrecadação e Cobrança
@@ -592,19 +600,20 @@ Planejamento Estratégico
 Relações Internacionais
 Ações e Programas
 Ações, Atividades, Obras, Programas e Projetos
-Carta de Serviços
 Governança
+Carta de Serviços
 Cidadania Fiscal
 Confia
+CNPJ
 Devedor Contumaz
 É Golpe?
 Isenções e Outros Benefícios
 Operador Econômico Autorizado
 Painel Receita
+Prêmio de Criatividade e Inovação (PCI)
 Receita Sintonia
 Reforma Tributária do Consumo
 Remessa Conforme
-CNPJ da Pessoa Física
 Participação Social
 Audiências e Consultas Públicas
 Conselhos e Órgãos Colegiados
@@ -659,7 +668,6 @@ Presencial
 E-mail
 Online (Chat)
 Fale Conosco
-Lista de Serviços
 Conveniados
 Alfândegas
 Imprensa
@@ -685,6 +693,7 @@ Modelos de Documentos
 Reforma Tributária
 Imagens
 Fotos do IV Congresso de Direito Tributário e Aduaneiro
+Planilhas
 Painéis
 Aduana e Comércio Exterior
 Arrecadação e Cobrança
@@ -703,6 +712,7 @@ Publicações
 Acordos de Cooperação
 Apresentações
 Documentos Técnicos
+eBooks
 Estudos Tributários e Aduaneiros
 Folheteria
 Guias e Roteiros
@@ -720,6 +730,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
+Vídeos das Histórias de Trabalho
 Portais Relacionados
 Empresas e Negócios
 ENAT
