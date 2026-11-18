@@ -433,7 +433,7 @@ Curso
 Apresentações
 Tributação sobre Consumo
 Acompanhe a Reforma Tributária
-Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível
+Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível
 Serviços
 17/11/2026 11h16
 Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária

@@ -1,4 +1,4 @@
-Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível — Receita Federal
+Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível — Receita Federal
 Ir para o
 Conteúdo
 1
@@ -424,11 +424,11 @@ Assuntos
 Notícias
 2026
 Novembro
-Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível
+Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível
 Info
 Notícias
 Serviços
-Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível
+Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível
 Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.
 Compartilhe:
 Compartilhe por Facebook
@@ -438,18 +438,20 @@ Compartilhe por WhatsApp
 link para Copiar para área de transferência
 Publicado em
 17/11/2026 11h16
-A Receita Federal disponibilizou hoje a API para emissão do Recolhimento como Adquirente (RAD), mais uma entrega importante no processo de implementação da Reforma Tributária do Consumo.
-A nova API permitirá a integração direta dos sistemas dos contribuintes e das empresas desenvolvedoras com os serviços de geração de documentos de arrecadação e consulta de recolhimentos de CBS realizados na condição de adquirente. Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.
-O RAD é um dos instrumentos inovadores do novo modelo tributário. Por meio dele, o adquirente pode recolher a CBS vinculada a suas aquisições, extinguindo débitos do fornecedor e garantindo, simultaneamente, a apropriação dos créditos correspondentes. Esse mecanismo aumenta a segurança das operações, fortalece a conformidade tributária e contribui para a aceleração do aproveitamento de créditos ao longo da cadeia econômica.
-Com a disponibilização da API, empresas, software houses e integradores já podem iniciar os processos de adaptação e desenvolvimento de soluções compatíveis com o novo ambiente da CBS, antecipando a preparação para a transição da Reforma Tributária.
+Atualizado em
+17/11/2026 17h18
+Foi publicada hoje a documentação técnica da futura API do RAD, permitindo que empresas, desenvolvedores e fornecedores de software conheçam antecipadamente a estrutura, os requisitos e os padrões de integração previstos para a solução.
+É importante destacar que, neste momento, foi disponibilizada apenas a documentação. A API será disponibilizada em breve para consumo em ambiente de produção ou para realização de integrações.
+A divulgação antecipada da documentação tem como objetivo permitir que as equipes técnicas se preparem com antecedência, conheçam os recursos planejados e possam iniciar seus estudos de adaptação e desenvolvimento.
+Novas informações sobre a disponibilização da API, ambientes de testes e cronograma de implantação serão comunicadas oportunamente pelos canais oficiais.
 Os detalhes técnicos, documentação e orientações para integração estão disponíveis no portal oficial da Receita Federal:
 👉 Documentação da API de Apuração Assistida da CBS
 https://docs.receitafederal.gov.br/apuracao-cbs/
 Serviços disponíveis nesta primeira entrega:
-- Consulta de recolhimentos de CBS realizados como adquirente (RAD);
-- Geração de DARF para recolhimento de CBS na condição de adquirente;
-- Integração automatizada com sistemas corporativos e plataformas de gestão tributária.
-A disponibilização da API representa mais um passo na construção de um sistema tributário mais digital, integrado e orientado à simplificação do cumprimento das obrigações tributárias.
+Consulta de recolhimentos de CBS realizados como adquirente (RAD);
+Geração de DARF para recolhimento de CBS na condição de adquirente;
+Integração automatizada com sistemas corporativos e plataformas de gestão tributária.
+Fique atento às próximas atualizações. A publicação da documentação marca mais uma etapa na construção de um ambiente cada vez mais integrado, seguro e eficiente para o compartilhamento de informações por meio do RAD.
 Categoria
 Impostos e Obrigações
 Tags: RTC
