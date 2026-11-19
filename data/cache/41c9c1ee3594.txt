@@ -293,8 +293,9 @@ link para Copiar para área de transferência
 Publicado em
 16/11/2026 14h41
 Atualizado em
-16/11/2026 14h42
+19/11/2026 15h38
 A Receita Federal deu mais um passo na implementação da Reforma Tributária do Consumo ao autorizar a publicação do código-fonte da Calculadora de Tributos em repositórios públicos no GitHub, que é uma plataforma de hospedagem de código-fonte e arquivos. A medida foi formalizada pela Portaria Cotec nº 342, de 12 de novembro de 2026, publicada no Diário Oficial da União.
+Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 Pela primeira vez, a Receita Federal apresentou oficialmente um projeto de software em ambiente público de desenvolvimento colaborativo, adotando a licença MIT, uma das mais utilizadas no mundo para código aberto. A iniciativa fortalece a transparência, a segurança jurídica e a previsibilidade na implementação dos novos tributos sobre o consumo.
 O que muda na prática
 A Calculadora de Tributos é uma ferramenta que materializa as regras de cálculo da CBS e dos demais tributos da Reforma Tributária. Ao disponibilizar seu código-fonte de forma aberta, a Receita permite que empresas, desenvolvedores e fornecedores de software incorporem exatamente a mesma lógica utilizada pela administração tributária em seus sistemas de faturamento, gestão e compliance.

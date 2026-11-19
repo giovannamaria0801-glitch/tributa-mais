@@ -293,8 +293,9 @@ link para Copiar para área de transferência
 Publicado em
 17/11/2026 14h52
 Atualizado em
-17/11/2026 15h00
+19/11/2026 15h37
 A Receita Federal disponibilizou nesta terça-feira (17/11) a API (Application Programming Interface, ou interface de programação de aplicações) para emissão do Recolhimento como Adquirente (RAD), mais uma entrega do processo de implementação da Reforma Tributária do Consumo.
+Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 A disponibilização da API representa mais um passo na construção de um sistema tributário mais digital, integrado e orientado à simplificação do cumprimento das obrigações tributárias.
 A nova aplicação permitirá a integração direta dos sistemas dos contribuintes e das empresas desenvolvedoras com os serviços de geração de documentos de arrecadação e consulta de recolhimentos de Contribuição sobre Bens e Serviços (CBS) realizados na condição de adquirente. Na prática, a solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários.
 O RAD é um dos instrumentos inovadores do novo modelo tributário. Por meio dele, o adquirente pode recolher a CBS vinculada a suas aquisições, extinguindo débitos do fornecedor e garantindo, simultaneamente, a apropriação dos créditos correspondentes.

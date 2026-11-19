@@ -292,7 +292,10 @@ Compartilhe por WhatsApp
 link para Copiar para área de transferência
 Publicado em
 13/11/2026 14h47
+Atualizado em
+19/11/2026 15h39
 O Programa Gerador do Documento de Arrecadação do Simples Nacional( PGDAS-D) foi atualizado para atender às mudanças da Reforma Tributária sobre o Consumo e às normas que adaptaram o Simples Nacional. A atualização permite que o sistema calcule as informações necessárias para o preenchimento dos documentos fiscais eletrônicos.
+Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 A partir dos períodos de apuração (PA) 11/2026 e 12/2026, passam a valer duas mudanças:
 Regime de apuração: não será mais necessário escolher entre os regimes de caixa e de competência. A partir de 2027, todas as apurações serão feitas pelo regime de competência.
 Folha de salários: será necessário informar a folha de salários dos últimos 12 meses (FS12) para todas as atividades do Simples Nacional.

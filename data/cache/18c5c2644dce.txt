@@ -433,20 +433,22 @@ Curso
 Apresentações
 Tributação sobre Consumo
 Acompanhe a Reforma Tributária
+RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária
+Tributação
+18/11/2026 19h12
+A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS
+Serviços
+18/11/2026 16h54
 Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível
 Serviços
 17/11/2026 11h16
-Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária
-Serviços
-16/11/2026 12h40
-PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026
-Serviços
-13/11/2026 11h44
 Mais notícias da Reforma Tributária…
 Painel da Reforma Tributária do Consumo
 Painel (dashboard) da Reforma Tributária do Consumo
 Podcasts Reforma de Fato
 Informação segura para apoiar empresas, profissionais da contabilidade e contribuintes na transição para as novas regras da Reforma Tributária do Consumo.
+Documentos Fiscais
+Saiba mais sobre a atualização de documentos fiscais para a Reforma Tributária.
 Vídeos
 Piloto e Desenvolvimento Colaborativo
 Seu navegador de internet esta sem suporte a JavaScript, por esse motivo alguns funcionalidades do site podem não estar acessíveis.
