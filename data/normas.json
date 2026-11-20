@@ -16,7 +16,7 @@
    "versao_anterior": "c42aeda15bebca4dc4a5c7b4492904be9e58829254539c588105918c52a80f04",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-17T19:35:59+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -63,10 +63,10 @@
    "referencia": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nServiços e Informações do Brasil\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nServiços\nBuscar serviços por\nCategorias\nÓrgãos\nEstados\nServiços por público alvo\nCidadãos\nEmpresas\nÓrgãos e Entidades Públicas\nDemais segmentos (ONGs, organizações sociais, etc)\nServidor Público\nTemas em Destaque\nOrçamento Nacional\nRedes de Atendimento da Administração Pública Federal\nProteção de Dados ",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "0ea1fceb737450fb9acf0802abcaf8ad7895879bad63ce64f3e1c95f93881d07",
+   "versao_anterior": "86cb5bc1c2b6d4cd58a51416c06e45280df3413f9df8b7680856cd7d9e2cf05c",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -75,6 +75,16 @@
     },
     {
      "em": "2026-11-12T11:48:44+00:00",
+     "evento": "alterada",
+     "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "alterada",
+     "hash": "86cb5bc1c2b6d4cd58a51416c06e45280df3413f9df8b7680856cd7d9e2cf05c"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
      "evento": "alterada",
      "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951"
     }
@@ -96,7 +106,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -114,14 +124,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "bcf957b34db10c3ab46d82ed9f769f44e4cc106427e9924254f88e17ffec0b67",
+   "hash": "7d2e6d5ce59847717f3a3382de400f131cd4f01c8993744f05632d6ec8527059",
    "referencia": "Programa da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nCon",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "d3ba66ece9584b30456a8e423a7ba7f922c6c9d5677163d43d81bcdead9efa6d",
+   "versao_anterior": "bcf957b34db10c3ab46d82ed9f769f44e4cc106427e9924254f88e17ffec0b67",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -162,6 +172,11 @@
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "alterada",
      "hash": "bcf957b34db10c3ab46d82ed9f769f44e4cc106427e9924254f88e17ffec0b67"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "alterada",
+     "hash": "7d2e6d5ce59847717f3a3382de400f131cd4f01c8993744f05632d6ec8527059"
     }
    ]
   },
@@ -181,7 +196,7 @@
    "versao_anterior": "b8a096907dd6e441c3809a4de7f21c60aa39a452887a8bb9dd5204409fad46e3",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -221,7 +236,7 @@
    "versao_anterior": "9350813d9a63d2a01a849b09b7dcef973ff411ba751b7ce7be369c9454df7890",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -261,7 +276,7 @@
    "versao_anterior": "0db50eb821b037505c44fc598ea816711353f523cc35d0dc43f787e185000fa9",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-17T19:35:59+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -311,7 +326,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -336,7 +351,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -354,14 +369,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158",
+   "hash": "caef6a0c269b0bb99a74e6ae9907d51833686535500992cabeaac51daf2954ed",
    "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conteúdo\nRFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidad",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "074e1340166a351b61a5b0328e6cae6b25f0b8b53aded5e7284da418fc9ca88e",
+   "versao_anterior": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -377,6 +392,11 @@
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "alterada",
      "hash": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "alterada",
+     "hash": "caef6a0c269b0bb99a74e6ae9907d51833686535500992cabeaac51daf2954ed"
     }
    ]
   },
@@ -396,7 +416,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -421,7 +441,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -506,7 +526,7 @@
    "versao_anterior": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -536,7 +556,7 @@
    "versao_anterior": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -566,7 +586,7 @@
    "versao_anterior": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -596,7 +616,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -621,7 +641,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -784,14 +804,14 @@
    "publicado_em": "24/03/2022",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/tributacao-2",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "8e1ba902aa0acc3c7c7b5d7add6e2185c3a8014b13d879449b2b8a913b072ef6",
+   "hash": "de28da96983999f811eb5d92c08b59ec82a98437ac671a2d754d484e294e5a0b",
    "referencia": "Tributação — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acor",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "e76e6ec3eb9823c39c4776783b2d59299c21de7fab66ad6b5561afbb48553176",
+   "versao_anterior": "8e1ba902aa0acc3c7c7b5d7add6e2185c3a8014b13d879449b2b8a913b072ef6",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -822,6 +842,11 @@
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "alterada",
      "hash": "8e1ba902aa0acc3c7c7b5d7add6e2185c3a8014b13d879449b2b8a913b072ef6"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "alterada",
+     "hash": "de28da96983999f811eb5d92c08b59ec82a98437ac671a2d754d484e294e5a0b"
     }
    ]
   },
@@ -841,7 +866,7 @@
    "versao_anterior": "90e3e1a9aff989ee33fd988d413bb30b03cfa109f006e8b3cadaffb07c4e2bcc",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-14T11:27:22+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -976,7 +1001,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1081,7 +1106,7 @@
    "versao_anterior": "a776d1229c6760a306f7fe996357de4e5edae491a292abbdb4b28b63d5abc331",
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
@@ -1121,7 +1146,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
@@ -1139,19 +1164,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
-   "referencia": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício ",
+   "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
+   "referencia": "Falha ao obter o conteúdo integral da publicação: RuntimeError",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
    "primeira_vez_em": "2026-11-13T11:46:42+00:00",
-   "atualizado_em": "2026-11-13T11:46:42+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-13T11:46:42+00:00",
      "evento": "identificada",
      "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9"
+    },
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "alterada",
+     "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b"
     }
    ]
   },
@@ -1211,7 +1241,7 @@
    "versao_anterior": "117e74d953844898b0b29010b865741fee352ebdee982e35b618a7c34743bc64",
    "primeira_vez_em": "2026-11-14T11:27:22+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-14T11:27:22+00:00",
@@ -1241,7 +1271,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-14T11:27:22+00:00",
    "atualizado_em": "2026-11-14T11:27:22+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-14T11:27:22+00:00",
@@ -1266,7 +1296,7 @@
    "versao_anterior": "1663dd0ce380c2ce238329fd697f4e51b2082a68c0d12880576a790bade640b6",
    "primeira_vez_em": "2026-11-14T11:27:22+00:00",
    "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-14T11:27:22+00:00",
@@ -1296,7 +1326,7 @@
    "versao_anterior": "902637469bf8a84e7eb145264b8bd4ac7ce538eb194e30ec49353d0a62ba3d00",
    "primeira_vez_em": "2026-11-14T11:27:22+00:00",
    "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-14T11:27:22+00:00",
@@ -1351,7 +1381,7 @@
    "versao_anterior": "be7a79a6d2f68e0a31e131f45aea6073874649204b1835495818445d3ad2dcd9",
    "primeira_vez_em": "2026-11-16T20:47:28+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-16T20:47:28+00:00",
@@ -1381,7 +1411,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-16T20:47:28+00:00",
    "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-16T20:47:28+00:00",
@@ -1406,7 +1436,7 @@
    "versao_anterior": "b515c8cc9f62e351feeb6025a95963042f44c6a718bf3fdf024aeda549a0ea8a",
    "primeira_vez_em": "2026-11-17T19:35:59+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-17T19:35:59+00:00",
@@ -1436,7 +1466,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-17T19:35:59+00:00",
    "atualizado_em": "2026-11-17T19:35:59+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-17T19:35:59+00:00",
@@ -1461,7 +1491,7 @@
    "versao_anterior": "cc3696efd0013a2d2bd2e634fd49c467b9c4e322d277ee0a8256cbc3cdbde7bc",
    "primeira_vez_em": "2026-11-17T19:35:59+00:00",
    "atualizado_em": "2026-11-18T19:14:04+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-17T19:35:59+00:00",
@@ -1491,7 +1521,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1516,7 +1546,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1541,7 +1571,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1566,7 +1596,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1591,7 +1621,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-19T19:20:40+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1599,8 +1629,108 @@
      "hash": "20d9c8b64fa16eead4d8ea7eb30a469df966af2b219931405f2176bf4efc3c69"
     }
    ]
+  },
+  {
+   "id": "ab222a03de7b",
+   "titulo": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e",
+   "tipo": "Comunicado institucional (não equivale a norma)",
+   "orgao": "Comitê Gestor do IBS",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
+   "fonte_id": "cgibs-noticias-rtc",
+   "hash": "3c0c27953c3c68490364334f9225a36feefff9caeb110e6d04679fe8e59f2a8b",
+   "referencia": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nIní",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "historico": [
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "identificada",
+     "hash": "3c0c27953c3c68490364334f9225a36feefff9caeb110e6d04679fe8e59f2a8b"
+    }
+   ]
+  },
+  {
+   "id": "2a543c2c01a9",
+   "titulo": "Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "19/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-cgibs-e-cfc-vao-orientar-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "891d70a35860dccc5391acc9e94df623550b7a45e1f8757eff0a339a4258c539",
+   "referencia": "Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFun",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "historico": [
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "identificada",
+     "hash": "891d70a35860dccc5391acc9e94df623550b7a45e1f8757eff0a339a4258c539"
+    }
+   ]
+  },
+  {
+   "id": "920ea926ea9d",
+   "titulo": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "20/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "fb1ce52fe05fb7f3a5ce97d98cc91a0ab7eac57c2bacc3242e528c0d09280a89",
+   "referencia": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nCon",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "historico": [
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "identificada",
+     "hash": "fb1ce52fe05fb7f3a5ce97d98cc91a0ab7eac57c2bacc3242e528c0d09280a89"
+    }
+   ]
+  },
+  {
+   "id": "143326f439a8",
+   "titulo": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "19/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "eb7bcd0fd312f0557999789adfb761ce7bcf40dd731a655ded8d83af978314bf",
+   "referencia": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dí",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "historico": [
+    {
+     "em": "2026-11-20T18:57:04+00:00",
+     "evento": "identificada",
+     "hash": "eb7bcd0fd312f0557999789adfb761ce7bcf40dd731a655ded8d83af978314bf"
+    }
+   ]
   }
  ],
- "ultima_verificacao": "2026-11-19T19:20:40+00:00",
+ "ultima_verificacao": "2026-11-20T18:57:04+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }

@@ -484,5 +484,59 @@
   "alterados": 8,
   "fim": "2026-11-19T19:24:25+00:00",
   "ia": false
+ },
+ {
+  "inicio": "2026-11-20T18:57:04+00:00",
+  "fontes": [
+   {
+    "id": "planalto-ec132",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "planalto-lc214",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "planalto-lc227",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "rfb-legislacao-rtc",
+    "ok": true,
+    "itens": 7
+   },
+   {
+    "id": "rfb-atos-conjuntos",
+    "ok": true,
+    "itens": 8
+   },
+   {
+    "id": "cgibs-noticias-rtc",
+    "ok": true,
+    "itens": 6
+   },
+   {
+    "id": "mf-noticias-rtc",
+    "ok": true,
+    "itens": 18
+   },
+   {
+    "id": "rfb-noticias-rtc",
+    "ok": true,
+    "itens": 16
+   },
+   {
+    "id": "svrs-documentos-nfe",
+    "ok": true,
+    "itens": 1
+   }
+  ],
+  "novos": 4,
+  "alterados": 6,
+  "fim": "2026-11-20T19:02:56+00:00",
+  "ia": false
  }
 ]
