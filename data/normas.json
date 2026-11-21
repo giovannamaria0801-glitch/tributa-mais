@@ -376,7 +376,7 @@
    "versao_anterior": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -416,7 +416,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -441,7 +441,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1001,7 +1001,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1171,7 +1171,7 @@
    "versao_anterior": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
    "primeira_vez_em": "2026-11-13T11:46:42+00:00",
    "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-13T11:46:42+00:00",
@@ -1521,7 +1521,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1646,7 +1646,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
    "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-21T17:52:00+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
@@ -1731,6 +1731,6 @@
    ]
   }
  ],
- "ultima_verificacao": "2026-11-20T18:57:04+00:00",
+ "ultima_verificacao": "2026-11-21T17:52:00+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
