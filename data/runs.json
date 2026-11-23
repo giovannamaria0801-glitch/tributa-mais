@@ -646,5 +646,59 @@
   "alterados": 2,
   "fim": "2026-11-22T18:17:16+00:00",
   "ia": false
+ },
+ {
+  "inicio": "2026-11-23T22:26:11+00:00",
+  "fontes": [
+   {
+    "id": "planalto-ec132",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "planalto-lc214",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "planalto-lc227",
+    "ok": false,
+    "erro": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm: Remote end closed connection without response"
+   },
+   {
+    "id": "rfb-legislacao-rtc",
+    "ok": false,
+    "erro": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/legislacao/: <urlopen error [Errno 104] Connection reset by peer>"
+   },
+   {
+    "id": "rfb-atos-conjuntos",
+    "ok": false,
+    "erro": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/legislacao/atos-conjuntos/: <urlopen error [Errno 104] Connection reset by peer>"
+   },
+   {
+    "id": "cgibs-noticias-rtc",
+    "ok": true,
+    "itens": 6
+   },
+   {
+    "id": "mf-noticias-rtc",
+    "ok": false,
+    "erro": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/: <urlopen error [Errno 104] Connection reset by peer>"
+   },
+   {
+    "id": "rfb-noticias-rtc",
+    "ok": false,
+    "erro": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/ultimas-noticias: <urlopen error [Errno 104] Connection reset by peer>"
+   },
+   {
+    "id": "svrs-documentos-nfe",
+    "ok": true,
+    "itens": 1
+   }
+  ],
+  "novos": 0,
+  "alterados": 1,
+  "fim": "2026-11-23T22:29:34+00:00",
+  "ia": false
  }
 ]

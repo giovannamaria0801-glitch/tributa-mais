@@ -376,7 +376,7 @@
    "versao_anterior": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -416,7 +416,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -434,14 +434,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/comite-gestor-do-ibs-e-uniao-assinam-contrato-de-operacao-de-credito-para-financiar-a-implantacao-do-orgao",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
-   "referencia": "Falha ao obter o conteúdo integral da publicação: RuntimeError",
+   "hash": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba",
+   "referencia": "Comitê Gestor do IBS e União assinam contrato de operação de crédito para financiar a implantação do órgão - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício d",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba",
+   "versao_anterior": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-22T18:12:16+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "atualizado_em": "2026-11-23T22:26:11+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -452,6 +452,11 @@
      "em": "2026-11-22T18:12:16+00:00",
      "evento": "alterada",
      "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b"
+    },
+    {
+     "em": "2026-11-23T22:26:11+00:00",
+     "evento": "alterada",
+     "hash": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba"
     }
    ]
   },
@@ -1006,7 +1011,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1176,7 +1181,7 @@
    "versao_anterior": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
    "primeira_vez_em": "2026-11-13T11:46:42+00:00",
    "atualizado_em": "2026-11-22T18:12:16+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-13T11:46:42+00:00",
@@ -1531,7 +1536,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1656,7 +1661,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
    "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-22T18:12:16+00:00",
+   "verificado_em": "2026-11-23T22:26:11+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
@@ -1741,6 +1746,6 @@
    ]
   }
  ],
- "ultima_verificacao": "2026-11-22T18:12:16+00:00",
+ "ultima_verificacao": "2026-11-23T22:26:11+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
