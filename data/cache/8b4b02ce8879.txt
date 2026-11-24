@@ -7,6 +7,7 @@ Contraste
 Contraste
 Contato
 Mapa do site
+Área restrita
 CGIBS - Comitê Gestor do IBS
 Alterna a navegação
 Abrir a busca
@@ -18,7 +19,7 @@ Quem somos
 Conselho Superior
 Organograma
 Regimento Interno
-Conteúdo restrito
+Área restrita
 Imprensa
 Notícias
 Guia - Impactos Administrativos
@@ -45,6 +46,7 @@ Contraste
 Contraste
 Ouvidoria
 Mapa do site
+Área restrita
 Início do conteúdo
 Inicial
 Notícias
@@ -67,7 +69,7 @@ Quem somos
 Conselho Superior
 Organograma
 Regimento Interno
-Conteúdo restrito
+Área restrita
 Imprensa
 Notícias
 Guia - Impactos Administrativos

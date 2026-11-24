@@ -369,14 +369,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "caef6a0c269b0bb99a74e6ae9907d51833686535500992cabeaac51daf2954ed",
-   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conteúdo\nRFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidad",
+   "hash": "bc41b1e9d8e7b985dc1c12702c7572a53f8a0bf48f001251116bc31feedf8813",
+   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nRFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compr",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "e8af2111460abc8308908048ede5343c47aeb7fc7997e92406ff02b24b6bd158",
+   "versao_anterior": "caef6a0c269b0bb99a74e6ae9907d51833686535500992cabeaac51daf2954ed",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -397,6 +397,11 @@
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "alterada",
      "hash": "caef6a0c269b0bb99a74e6ae9907d51833686535500992cabeaac51daf2954ed"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "bc41b1e9d8e7b985dc1c12702c7572a53f8a0bf48f001251116bc31feedf8813"
     }
    ]
   },
@@ -409,19 +414,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/regulamentos",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "956f59db5aa75708959477e6cce221eda76cd88f4c776efc5ef0184366de3b14",
-   "referencia": "Regulamentos - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conteúdo\nInicial\nLegislações\nRegulamentos\nVoltar\nImprimir\nRegulamentos\nRESOLUÇÃO CGIBS Nº 6,",
+   "hash": "711db59d4c4828ccbce197df8abaceca919ee899c06ad9c5756326b4bf492b6f",
+   "referencia": "Regulamentos - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nInicial\nLegislações\nRegulamentos\nVoltar\nImprimir\nRegulament",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "956f59db5aa75708959477e6cce221eda76cd88f4c776efc5ef0184366de3b14",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "956f59db5aa75708959477e6cce221eda76cd88f4c776efc5ef0184366de3b14"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "711db59d4c4828ccbce197df8abaceca919ee899c06ad9c5756326b4bf492b6f"
     }
    ]
   },
@@ -434,14 +444,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/comite-gestor-do-ibs-e-uniao-assinam-contrato-de-operacao-de-credito-para-financiar-a-implantacao-do-orgao",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba",
-   "referencia": "Comitê Gestor do IBS e União assinam contrato de operação de crédito para financiar a implantação do órgão - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício d",
+   "hash": "9fbbb2cd175b97aee0f48769ba0e983cfb58161d96a78e06744498c59f5992d1",
+   "referencia": "Comitê Gestor do IBS e União assinam contrato de operação de crédito para financiar a implantação do órgão - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do sit",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
+   "versao_anterior": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-23T22:26:11+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -457,6 +467,11 @@
      "em": "2026-11-23T22:26:11+00:00",
      "evento": "alterada",
      "hash": "e0e44f903ec08d68dc24ef21ecc9a862d721eadb82a0bb51a9379c05b721eeba"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "9fbbb2cd175b97aee0f48769ba0e983cfb58161d96a78e06744498c59f5992d1"
     }
    ]
   },
@@ -1011,7 +1026,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1174,14 +1189,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
-   "referencia": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício ",
+   "hash": "b613e8b68a350c6f67401d6617031b8b9cee2f8eeabe583d2a3ebdd327643204",
+   "referencia": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do si",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
+   "versao_anterior": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9",
    "primeira_vez_em": "2026-11-13T11:46:42+00:00",
-   "atualizado_em": "2026-11-22T18:12:16+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-13T11:46:42+00:00",
@@ -1197,6 +1212,11 @@
      "em": "2026-11-22T18:12:16+00:00",
      "evento": "alterada",
      "hash": "1ea82296c651267b0b6df05254e3ddc5d8f0cc30483fa4d56f5f6265c9a2d7c9"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "b613e8b68a350c6f67401d6617031b8b9cee2f8eeabe583d2a3ebdd327643204"
     }
    ]
   },
@@ -1529,19 +1549,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade-fiscal",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "024b65a6dcf2d3355c29d97a098cb53834ef7b2db90c810ee5ebd629a77a87d8",
-   "referencia": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nInício do conte",
+   "hash": "7550ef0c8faab8e01fab2ccb45bef2ac55cdb47b88c8ad29832e68ff503785a7",
+   "referencia": "RFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea ",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "024b65a6dcf2d3355c29d97a098cb53834ef7b2db90c810ee5ebd629a77a87d8",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "identificada",
      "hash": "024b65a6dcf2d3355c29d97a098cb53834ef7b2db90c810ee5ebd629a77a87d8"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "7550ef0c8faab8e01fab2ccb45bef2ac55cdb47b88c8ad29832e68ff503785a7"
     }
    ]
   },
@@ -1654,19 +1679,24 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "3c0c27953c3c68490364334f9225a36feefff9caeb110e6d04679fe8e59f2a8b",
-   "referencia": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nConteúdo restrito\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nIní",
+   "hash": "7cb956dfde9af702d52dd13a4b2d558602bcfa970138201e5fe87fd192f22d80",
+   "referencia": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nGuia - Impactos Administrativos\nGuia Orientativo (PDF)\nPainel Interativo\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa d",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "3c0c27953c3c68490364334f9225a36feefff9caeb110e6d04679fe8e59f2a8b",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-23T22:26:11+00:00",
+   "atualizado_em": "2026-11-24T20:58:51+00:00",
+   "verificado_em": "2026-11-24T20:58:51+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "identificada",
      "hash": "3c0c27953c3c68490364334f9225a36feefff9caeb110e6d04679fe8e59f2a8b"
+    },
+    {
+     "em": "2026-11-24T20:58:51+00:00",
+     "evento": "alterada",
+     "hash": "7cb956dfde9af702d52dd13a4b2d558602bcfa970138201e5fe87fd192f22d80"
     }
    ]
   },
@@ -1746,6 +1776,6 @@
    ]
   }
  ],
- "ultima_verificacao": "2026-11-23T22:26:11+00:00",
+ "ultima_verificacao": "2026-11-24T20:58:51+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
