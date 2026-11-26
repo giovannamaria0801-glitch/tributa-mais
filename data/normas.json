@@ -376,7 +376,7 @@
    "versao_anterior": "bc41b1e9d8e7b985dc1c12702c7572a53f8a0bf48f001251116bc31feedf8813",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -426,7 +426,7 @@
    "versao_anterior": "711db59d4c4828ccbce197df8abaceca919ee899c06ad9c5756326b4bf492b6f",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -461,7 +461,7 @@
    "versao_anterior": "9fbbb2cd175b97aee0f48769ba0e983cfb58161d96a78e06744498c59f5992d1",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1041,7 +1041,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1204,14 +1204,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "e5752fc9214e7cb7c5ce492500d59325699e1d1058138493265b0513bf928067",
-   "referencia": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nInicial\nNotícias\nCGIBS aprova ajustes",
+   "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
+   "referencia": "Falha ao obter o conteúdo integral da publicação: RuntimeError",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "b613e8b68a350c6f67401d6617031b8b9cee2f8eeabe583d2a3ebdd327643204",
+   "versao_anterior": "e5752fc9214e7cb7c5ce492500d59325699e1d1058138493265b0513bf928067",
    "primeira_vez_em": "2026-11-13T11:46:42+00:00",
-   "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "atualizado_em": "2026-11-26T19:58:09+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-13T11:46:42+00:00",
@@ -1237,6 +1237,11 @@
      "em": "2026-11-25T20:22:13+00:00",
      "evento": "alterada",
      "hash": "e5752fc9214e7cb7c5ce492500d59325699e1d1058138493265b0513bf928067"
+    },
+    {
+     "em": "2026-11-26T19:58:09+00:00",
+     "evento": "alterada",
+     "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b"
     }
    ]
   },
@@ -1576,7 +1581,7 @@
    "versao_anterior": "7550ef0c8faab8e01fab2ccb45bef2ac55cdb47b88c8ad29832e68ff503785a7",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1711,7 +1716,7 @@
    "versao_anterior": "7cb956dfde9af702d52dd13a4b2d558602bcfa970138201e5fe87fd192f22d80",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-25T20:22:13+00:00",
+   "verificado_em": "2026-11-26T19:58:09+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
@@ -1806,6 +1811,6 @@
    ]
   }
  ],
- "ultima_verificacao": "2026-11-25T20:22:13+00:00",
+ "ultima_verificacao": "2026-11-26T19:58:09+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }
