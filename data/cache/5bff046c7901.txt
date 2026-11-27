@@ -293,7 +293,7 @@ link para Copiar para área de transferência
 Publicado em
 17/11/2026 14h52
 Atualizado em
-19/11/2026 15h37
+26/11/2026 14h01
 A Receita Federal disponibilizou nesta terça-feira (17/11) a API (Application Programming Interface, ou interface de programação de aplicações) para emissão do Recolhimento como Adquirente (RAD), mais uma entrega do processo de implementação da Reforma Tributária do Consumo.
 Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 A disponibilização da API representa mais um passo na construção de um sistema tributário mais digital, integrado e orientado à simplificação do cumprimento das obrigações tributárias.
@@ -309,6 +309,20 @@ Serviços disponíveis nesta primeira entrega:
 Categoria
 Finanças, Impostos e Gestão Pública
 Tags: REFORMA TRIBUTÁRIARADCRÉDITOS TRIBUTÁRIOS
+Conteúdo relacionado
+Receita Federal divulga calculadora para apoiar contribuintes na análise de opções de transação tributária
+Receita Federal libera acesso às novas APIs de apuração da CBS
+Receita Federal atualiza Ambiente Beta da DeRE
+Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária
+Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS-D) é atualizado para atender à Reforma Tributária a partir de novembro de 2026
+Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária
+Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS
+Receita Federal e Comitê Gestor do IBS alinham implementação da Reforma Tributária e reforçam compromisso com a conformidade
+Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais
+Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS
+Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária
+Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS
+Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter

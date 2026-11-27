@@ -293,7 +293,7 @@ link para Copiar para área de transferência
 Publicado em
 19/11/2026 17h32
 Atualizado em
-19/11/2026 17h34
+26/11/2026 13h57
 A importância da participação de profissionais da contabilidade na promoção da conformidade tributária foi destacada em coletiva realizada no dia 11 de novembro e as ações de orientação são realizadas pela Receita Federal, com apoio do Conselho Federal de Contabilidade (CFC). As orientações sobre a Reforma Tributária do Consumo – RTC estão disponíveis na página de Acesso à Informação, em Ações e Programas/Reforma Tributária do Consumo.
 Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 No âmbito da RTC, o Ato Conjunto da RFB e do Comitê Gestor do Imposto sobre Bens e Serviços - CGIBS nº 4, de 30 de julho de 20261, estabeleceu os cronogramas de implantação e as datas de início da obrigatoriedade de emissão dos documentos fiscais eletrônicos contendo os campos destinados ao destaque da Contribuição Social sobre Bens e Serviços ‒ CBS e do Imposto sobre Bens e Serviços - IBS.
@@ -306,6 +306,19 @@ Essa iniciativa, em continuidade à reconhecida parceria mantida entre os órgã
 Categoria
 Finanças, Impostos e Gestão Pública
 Tags: REFORMA TRIBUTÁRIA DO CONSUMOPROFISSIONAIS DA CONTABILIDADEATO CONJUNTO Nº 4
+Conteúdo relacionado
+Receita Federal divulga calculadora para apoiar contribuintes na análise de opções de transação tributária
+Receita Federal atualiza Ambiente Beta da DeRE
+Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária
+Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS-D) é atualizado para atender à Reforma Tributária a partir de novembro de 2026
+Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária
+Receita Federal disponibiliza API para emissão do Recolhimento como Adquirente (RAD)
+Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS
+Receita Federal e Comitê Gestor do IBS alinham implementação da Reforma Tributária e reforçam compromisso com a conformidade
+Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS
+Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária
+Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS
+Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter

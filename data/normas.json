@@ -9,14 +9,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "98902eec791bc9636722c4f7129b16a81128732d0cd99d8786d2e6b7d010cd92",
+   "hash": "87dc34ac6fb610b99985755b565301981f89d9bfb1fdf0be9e238d4c14571d37",
    "referencia": "• Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\n",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "c42aeda15bebca4dc4a5c7b4492904be9e58829254539c588105918c52a80f04",
+   "versao_anterior": "98902eec791bc9636722c4f7129b16a81128732d0cd99d8786d2e6b7d010cd92",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-17T19:35:59+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -47,6 +47,11 @@
      "em": "2026-11-17T19:35:59+00:00",
      "evento": "alterada",
      "hash": "98902eec791bc9636722c4f7129b16a81128732d0cd99d8786d2e6b7d010cd92"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "87dc34ac6fb610b99985755b565301981f89d9bfb1fdf0be9e238d4c14571d37"
     }
    ]
   },
@@ -59,14 +64,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951",
+   "hash": "e9d36bbb27dae7d24033120095bf094c01d94d208ef8e01835f37fb80412c497",
    "referencia": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nServiços e Informações do Brasil\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nServiços\nBuscar serviços por\nCategorias\nÓrgãos\nEstados\nServiços por público alvo\nCidadãos\nEmpresas\nÓrgãos e Entidades Públicas\nDemais segmentos (ONGs, organizações sociais, etc)\nServidor Público\nTemas em Destaque\nOrçamento Nacional\nRedes de Atendimento da Administração Pública Federal\nProteção de Dados ",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "86cb5bc1c2b6d4cd58a51416c06e45280df3413f9df8b7680856cd7d9e2cf05c",
+   "versao_anterior": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -87,6 +92,11 @@
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "alterada",
      "hash": "c297ea7c22c58d4174ec0ae403d463d291b4d5a3db70bf1f56f744461c830951"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "e9d36bbb27dae7d24033120095bf094c01d94d208ef8e01835f37fb80412c497"
     }
    ]
   },
@@ -99,19 +109,24 @@
    "publicado_em": null,
    "url": "https://www.gov.br/pt-br/servicos/escolher-regime-de-apuracao-de-bens-e-servicos-ibs-e-da-contribuicao-sobre-bens-e-servicos-cbs",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "25b274afe726550b84256f60f24a105297aa1cf36a7828d50c30c9a26ff8c938",
+   "hash": "5951594be7b4c9d30a10b59899e589612dea26f35cada34b29b7504ee1f566ca",
    "referencia": "Escolher Regime de Apuração de Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS)\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nServiços e Informações do Brasil\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nServiços\nBuscar serviços por\nCategorias\nÓrgãos\nEstados\nServiços por público alvo\nCidadãos\nEmpresas\nÓrgãos e Entidades Públicas\nDemais segmentos (ONGs, organizações sociais, etc)\nServidor Público\nTemas em Destaque\nOrçamento Nacional\nRedes de Atendimento da Administração Pública Fede",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "25b274afe726550b84256f60f24a105297aa1cf36a7828d50c30c9a26ff8c938",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
      "evento": "identificada",
      "hash": "25b274afe726550b84256f60f24a105297aa1cf36a7828d50c30c9a26ff8c938"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "5951594be7b4c9d30a10b59899e589612dea26f35cada34b29b7504ee1f566ca"
     }
    ]
   },
@@ -124,14 +139,14 @@
    "publicado_em": null,
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "7d2e6d5ce59847717f3a3382de400f131cd4f01c8993744f05632d6ec8527059",
+   "hash": "cbde28800da6914f1fdb733ac10c2a09b55314b1815c462a2f2787fc462577b2",
    "referencia": "Programa da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nCon",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "bcf957b34db10c3ab46d82ed9f769f44e4cc106427e9924254f88e17ffec0b67",
+   "versao_anterior": "7d2e6d5ce59847717f3a3382de400f131cd4f01c8993744f05632d6ec8527059",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -177,6 +192,11 @@
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "alterada",
      "hash": "7d2e6d5ce59847717f3a3382de400f131cd4f01c8993744f05632d6ec8527059"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "cbde28800da6914f1fdb733ac10c2a09b55314b1815c462a2f2787fc462577b2"
     }
    ]
   },
@@ -189,14 +209,14 @@
    "publicado_em": "14/10/2024",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/convenios-e-transferencias",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "2e8a16fa43455e0178b87d4e9aef24f94f80dbb6ab7a1905c1eca1c9dbb452c7",
+   "hash": "211763bbbcf78c6434dda21dc6837eec83171cfc016b6edec26a15342cd6bf89",
    "referencia": "Convênios e Transferências — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelam",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "b8a096907dd6e441c3809a4de7f21c60aa39a452887a8bb9dd5204409fad46e3",
+   "versao_anterior": "2e8a16fa43455e0178b87d4e9aef24f94f80dbb6ab7a1905c1eca1c9dbb452c7",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -217,6 +237,11 @@
      "em": "2026-11-16T20:47:28+00:00",
      "evento": "alterada",
      "hash": "2e8a16fa43455e0178b87d4e9aef24f94f80dbb6ab7a1905c1eca1c9dbb452c7"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "211763bbbcf78c6434dda21dc6837eec83171cfc016b6edec26a15342cd6bf89"
     }
    ]
   },
@@ -229,14 +254,14 @@
    "publicado_em": "24/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "0f8520a646d6648caaafb15a33b01620a37b76a8caefc1fa64a3c5da653286c6",
+   "hash": "12620689e8b20b032b77410e1ab3dd73613e926b96529498c872d18e599f9853",
    "referencia": "Piloto da Reforma Tributária do Consumo — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsu",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "9350813d9a63d2a01a849b09b7dcef973ff411ba751b7ce7be369c9454df7890",
+   "versao_anterior": "0f8520a646d6648caaafb15a33b01620a37b76a8caefc1fa64a3c5da653286c6",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-16T20:47:28+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -257,6 +282,11 @@
      "em": "2026-11-16T20:47:28+00:00",
      "evento": "alterada",
      "hash": "0f8520a646d6648caaafb15a33b01620a37b76a8caefc1fa64a3c5da653286c6"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "12620689e8b20b032b77410e1ab3dd73613e926b96529498c872d18e599f9853"
     }
    ]
   },
@@ -269,14 +299,14 @@
    "publicado_em": "16/06/2025",
    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/reforma-tributaria",
    "fonte_id": "rfb-legislacao-rtc",
-   "hash": "bc0bcb520a7a900b75e22c3d3cb424ab937b04be0bdb77a2e8354a3b41c6c4b6",
+   "hash": "4ab3ac8e0edac14cb280a24ee59437cc988d60981834544a787e4f0d43eb7762",
    "referencia": "Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFa",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "0db50eb821b037505c44fc598ea816711353f523cc35d0dc43f787e185000fa9",
+   "versao_anterior": "bc0bcb520a7a900b75e22c3d3cb424ab937b04be0bdb77a2e8354a3b41c6c4b6",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-17T19:35:59+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -307,6 +337,11 @@
      "em": "2026-11-17T19:35:59+00:00",
      "evento": "alterada",
      "hash": "bc0bcb520a7a900b75e22c3d3cb424ab937b04be0bdb77a2e8354a3b41c6c4b6"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "4ab3ac8e0edac14cb280a24ee59437cc988d60981834544a787e4f0d43eb7762"
     }
    ]
   },
@@ -369,14 +404,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "82fcffc419cdc51e784f39266ca863f358c1ecaee28dfb15a5f621ce4a9c5aa3",
-   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nRFB e CGIBS alinham próximos passos da Reforma Tributária e reforçam compromisso com a conformidade\nEncontro reuniu lideranças das duas instituiçõe",
+   "hash": "cd79591ad05cf4ecf320479237cc4d8429f8c314828c636750b03dea61d28113",
+   "referencia": "CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nReceita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios conforme a LC 214/2025\nTexto legal prevê que o condomínio edilício, ",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "bc41b1e9d8e7b985dc1c12702c7572a53f8a0bf48f001251116bc31feedf8813",
+   "versao_anterior": "82fcffc419cdc51e784f39266ca863f358c1ecaee28dfb15a5f621ce4a9c5aa3",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-26T19:58:09+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -407,6 +442,11 @@
      "em": "2026-11-25T20:22:13+00:00",
      "evento": "alterada",
      "hash": "82fcffc419cdc51e784f39266ca863f358c1ecaee28dfb15a5f621ce4a9c5aa3"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "cd79591ad05cf4ecf320479237cc4d8429f8c314828c636750b03dea61d28113"
     }
    ]
   },
@@ -426,7 +466,7 @@
    "versao_anterior": "711db59d4c4828ccbce197df8abaceca919ee899c06ad9c5756326b4bf492b6f",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-26T19:58:09+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -566,7 +606,7 @@
    "versao_anterior": "f59a7b23caa9650e6c4212a445845ca00f910d7fe38a111ab1d3f8d4943fc216",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -596,7 +636,7 @@
    "versao_anterior": "1ff38e408fccb8590ccfc5279ffdca251d201bfc44ccd7e85321c30e84d6ba4e",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -626,7 +666,7 @@
    "versao_anterior": "87be70e9b8ed15120ce5d1be7173f4c26463dac3390d8a4e43d2df522af351bd",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -656,7 +696,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -681,7 +721,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -844,14 +884,14 @@
    "publicado_em": "24/03/2022",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/tributacao-2",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "de28da96983999f811eb5d92c08b59ec82a98437ac671a2d754d484e294e5a0b",
+   "hash": "84a66048da050fbbdf398976c5aea7df507561c82d7f640e9a21f7d608a95631",
    "referencia": "Tributação — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nConsultar pagamentos\nParcelar dívidas\nConsultar parcelamentos\nFazer acor",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "8e1ba902aa0acc3c7c7b5d7add6e2185c3a8014b13d879449b2b8a913b072ef6",
+   "versao_anterior": "de28da96983999f811eb5d92c08b59ec82a98437ac671a2d754d484e294e5a0b",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -887,6 +927,11 @@
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "alterada",
      "hash": "de28da96983999f811eb5d92c08b59ec82a98437ac671a2d754d484e294e5a0b"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "84a66048da050fbbdf398976c5aea7df507561c82d7f640e9a21f7d608a95631"
     }
    ]
   },
@@ -906,7 +951,7 @@
    "versao_anterior": "90e3e1a9aff989ee33fd988d413bb30b03cfa109f006e8b3cadaffb07c4e2bcc",
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-14T11:27:22+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1041,7 +1086,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-11T11:47:01+00:00",
    "atualizado_em": "2026-11-11T11:47:01+00:00",
-   "verificado_em": "2026-11-26T19:58:09+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-11T11:47:01+00:00",
@@ -1186,7 +1231,7 @@
    "versao_anterior": null,
    "primeira_vez_em": "2026-11-12T11:48:44+00:00",
    "atualizado_em": "2026-11-12T11:48:44+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-12T11:48:44+00:00",
@@ -1489,14 +1534,14 @@
    "publicado_em": "17/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-disponibiliza-api-para-emissao-do-recolhimento-como-adquirente-rad",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "30946102a7107064a52b6c4644ce2f7d8cc355b5ef1cd477ea7998442255a014",
+   "hash": "38ba6cc6209cded9520e1f2046d639d3770a26450da4480fb6144330944b93da",
    "referencia": "Receita Federal disponibiliza API para emissão do Recolhimento como Adquirente (RAD) — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\n",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "b515c8cc9f62e351feeb6025a95963042f44c6a718bf3fdf024aeda549a0ea8a",
+   "versao_anterior": "30946102a7107064a52b6c4644ce2f7d8cc355b5ef1cd477ea7998442255a014",
    "primeira_vez_em": "2026-11-17T19:35:59+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-17T19:35:59+00:00",
@@ -1507,6 +1552,11 @@
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "alterada",
      "hash": "30946102a7107064a52b6c4644ce2f7d8cc355b5ef1cd477ea7998442255a014"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "38ba6cc6209cded9520e1f2046d639d3770a26450da4480fb6144330944b93da"
     }
    ]
   },
@@ -1581,7 +1631,7 @@
    "versao_anterior": "7550ef0c8faab8e01fab2ccb45bef2ac55cdb47b88c8ad29832e68ff503785a7",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
    "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-26T19:58:09+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
@@ -1609,19 +1659,24 @@
    "publicado_em": "19/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-comite-gestor-do-ibs-alinham-implementacao-da-reforma-tributaria-e-reforcam-compromisso-com-a-conformidade",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "f9551f80c9b831e8c5f6e2c245da8dcd8b4d608b60c21123fa37c72016c8ec62",
+   "hash": "bfb5fbc77bc68339fba41f528fa3df3241e58ef5b2a42845214adea23a9c558d",
    "referencia": "Receita Federal e Comitê Gestor do IBS alinham implementação da Reforma Tributária e reforçam compromisso com a conformidade — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CN",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "f9551f80c9b831e8c5f6e2c245da8dcd8b4d608b60c21123fa37c72016c8ec62",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "identificada",
      "hash": "f9551f80c9b831e8c5f6e2c245da8dcd8b4d608b60c21123fa37c72016c8ec62"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "bfb5fbc77bc68339fba41f528fa3df3241e58ef5b2a42845214adea23a9c558d"
     }
    ]
   },
@@ -1634,19 +1689,24 @@
    "publicado_em": "18/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-quantidade-de-solicitacoes-de-opcoes-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "47dedbcd65d2bb4152253d7c29a452d9654f7eb7e67579f3d0d0ffe4c8d94ed8",
+   "hash": "4221891ea4a0c8e58ceaec0436d7740a8a9e35b18d51c62492127b289a6818f1",
    "referencia": "Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDe",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "47dedbcd65d2bb4152253d7c29a452d9654f7eb7e67579f3d0d0ffe4c8d94ed8",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "identificada",
      "hash": "47dedbcd65d2bb4152253d7c29a452d9654f7eb7e67579f3d0d0ffe4c8d94ed8"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "4221891ea4a0c8e58ceaec0436d7740a8a9e35b18d51c62492127b289a6818f1"
     }
    ]
   },
@@ -1659,19 +1719,24 @@
    "publicado_em": "18/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "f4ab677ad46900ce3ea864774302415150133191e7fff0677e32ffb7c3e40d5f",
+   "hash": "cb6552331449cfe134425875c46762c44df1a7c4e8da4b7487bdba42123f1fd0",
    "referencia": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\n",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "f4ab677ad46900ce3ea864774302415150133191e7fff0677e32ffb7c3e40d5f",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "identificada",
      "hash": "f4ab677ad46900ce3ea864774302415150133191e7fff0677e32ffb7c3e40d5f"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "cb6552331449cfe134425875c46762c44df1a7c4e8da4b7487bdba42123f1fd0"
     }
    ]
   },
@@ -1684,19 +1749,24 @@
    "publicado_em": "18/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "20d9c8b64fa16eead4d8ea7eb30a469df966af2b219931405f2176bf4efc3c69",
+   "hash": "d400315fa56f3fbc4502a80723cae78e95fc0f59e2cef64ce061b471bc1e89ff",
    "referencia": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\n",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "20d9c8b64fa16eead4d8ea7eb30a469df966af2b219931405f2176bf4efc3c69",
    "primeira_vez_em": "2026-11-19T19:20:40+00:00",
-   "atualizado_em": "2026-11-19T19:20:40+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-19T19:20:40+00:00",
      "evento": "identificada",
      "hash": "20d9c8b64fa16eead4d8ea7eb30a469df966af2b219931405f2176bf4efc3c69"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "d400315fa56f3fbc4502a80723cae78e95fc0f59e2cef64ce061b471bc1e89ff"
     }
    ]
   },
@@ -1709,14 +1779,14 @@
    "publicado_em": null,
    "url": "https://www.cgibs.gov.br/rfb-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaques-da-cbs-ibs",
    "fonte_id": "cgibs-noticias-rtc",
-   "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
-   "referencia": "Falha ao obter o conteúdo integral da publicação: RuntimeError",
+   "hash": "cc3fc3f127b0e7d509b74b3f9d33701f1c3075b09814d0e955863ab434e1642c",
+   "referencia": "RFB, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaques da CBS/IBS nos DF-e - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nInicial\nNotícias\nRFB, CGIBS e CFC",
    "resumo_ia": null,
    "status": "atualizada_posteriormente",
-   "versao_anterior": "7cb956dfde9af702d52dd13a4b2d558602bcfa970138201e5fe87fd192f22d80",
+   "versao_anterior": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
-   "atualizado_em": "2026-11-25T20:22:13+00:00",
-   "verificado_em": "2026-11-26T19:58:09+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
@@ -1732,6 +1802,11 @@
      "em": "2026-11-25T20:22:13+00:00",
      "evento": "alterada",
      "hash": "2b2eccddbf8fa4cbeb64cebfebe1b0b5b25273c860303eb0fefbf60b9934798b"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "cc3fc3f127b0e7d509b74b3f9d33701f1c3075b09814d0e955863ab434e1642c"
     }
    ]
   },
@@ -1744,19 +1819,24 @@
    "publicado_em": "19/11/2026",
    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-cgibs-e-cfc-vao-orientar-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
    "fonte_id": "mf-noticias-rtc",
-   "hash": "891d70a35860dccc5391acc9e94df623550b7a45e1f8757eff0a339a4258c539",
+   "hash": "59f6ce4bdf424c0c0aeead7c82d89588153a2f93c5304ce0dbc2ed80f8cce1d0",
    "referencia": "Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFun",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "891d70a35860dccc5391acc9e94df623550b7a45e1f8757eff0a339a4258c539",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "identificada",
      "hash": "891d70a35860dccc5391acc9e94df623550b7a45e1f8757eff0a339a4258c539"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "59f6ce4bdf424c0c0aeead7c82d89588153a2f93c5304ce0dbc2ed80f8cce1d0"
     }
    ]
   },
@@ -1769,19 +1849,24 @@
    "publicado_em": "20/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "fb1ce52fe05fb7f3a5ce97d98cc91a0ab7eac57c2bacc3242e528c0d09280a89",
+   "hash": "b669357dd4d45feb8c760fdf0d5f2cee2082935f58e95990f0ec57a9971bff1a",
    "referencia": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nCon",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "fb1ce52fe05fb7f3a5ce97d98cc91a0ab7eac57c2bacc3242e528c0d09280a89",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "identificada",
      "hash": "fb1ce52fe05fb7f3a5ce97d98cc91a0ab7eac57c2bacc3242e528c0d09280a89"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "b669357dd4d45feb8c760fdf0d5f2cee2082935f58e95990f0ec57a9971bff1a"
     }
    ]
   },
@@ -1794,23 +1879,278 @@
    "publicado_em": "19/11/2026",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
    "fonte_id": "rfb-noticias-rtc",
-   "hash": "eb7bcd0fd312f0557999789adfb761ce7bcf40dd731a655ded8d83af978314bf",
+   "hash": "906dd4e3d152d29af7d8027307a99c9260bf5d6ef6b4631faac65362b6380a70",
    "referencia": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dí",
    "resumo_ia": null,
-   "status": "identificada",
-   "versao_anterior": null,
+   "status": "atualizada_posteriormente",
+   "versao_anterior": "eb7bcd0fd312f0557999789adfb761ce7bcf40dd731a655ded8d83af978314bf",
    "primeira_vez_em": "2026-11-20T18:57:04+00:00",
-   "atualizado_em": "2026-11-20T18:57:04+00:00",
-   "verificado_em": "2026-11-20T18:57:04+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
    "historico": [
     {
      "em": "2026-11-20T18:57:04+00:00",
      "evento": "identificada",
      "hash": "eb7bcd0fd312f0557999789adfb761ce7bcf40dd731a655ded8d83af978314bf"
+    },
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "alterada",
+     "hash": "906dd4e3d152d29af7d8027307a99c9260bf5d6ef6b4631faac65362b6380a70"
+    }
+   ]
+  },
+  {
+   "id": "219a1a09f44b",
+   "titulo": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios conforme a LC 214/2025",
+   "tipo": "Comunicado institucional (não equivale a norma)",
+   "orgao": "Comitê Gestor do IBS",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.cgibs.gov.br/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios",
+   "fonte_id": "cgibs-noticias-rtc",
+   "hash": "80456ce3e75260635de15306d23a268dded45595ef8e753774561220fb8fa549",
+   "referencia": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios conforme a LC 214/2025 - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nInicial\nNotícias\nReceita Federal e CGIBS\nVo",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "80456ce3e75260635de15306d23a268dded45595ef8e753774561220fb8fa549"
+    }
+   ]
+  },
+  {
+   "id": "4c8c1ee56e73",
+   "titulo": "CGIBS participa do Congresso de Direito Tributário do CODECON/SP e discute impactos da Reforma Tributária no país",
+   "tipo": "Comunicado institucional (não equivale a norma)",
+   "orgao": "Comitê Gestor do IBS",
+   "numero": "não identificado no texto",
+   "publicado_em": null,
+   "url": "https://www.cgibs.gov.br/cgibs-participa-do-congresso-de-direito-tributario-do-codecon-sp",
+   "fonte_id": "cgibs-noticias-rtc",
+   "hash": "13473e28b575e4472515d57a57558f38ca6a1ccbf1ca977fae6a62c66c65c434",
+   "referencia": "CGIBS participa do Congresso de Direito Tributário do CODECON/SP e discute impactos da Reforma Tributária no país - CGIBS - Comitê Gestor do IBS\nConteúdo [1]\nMenu [2]\nBusca [3]\nAcessibilidade\nContraste\nContraste\nContato\nMapa do site\nÁrea restrita\nCGIBS - Comitê Gestor do IBS\nAlterna a navegação\nAbrir a busca\nBuscar\nInício do menu\nInicial\nInstitucional\nQuem somos\nConselho Superior\nOrganograma\nRegimento Interno\nÁrea restrita\nImprensa\nNotícias\nCentral de Conteúdo\nGuias\nCartilhas\nComunicados Oficiais\nDocumentos Técnicos\nVídeos\nEditais de Chamamento Público\nLegislações\nLeis\nResoluções\nRegulamentos\nPortarias\nAtos Conjuntos\nRelatórios\nAtos Técnicos Conjuntos\nTransparência\nPortal de Serviços\nContraste\nContraste\nOuvidoria\nMapa do site\nÁrea restrita\nInício do conteúdo\nInicial\nNotícias\nCGIBS particip",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "13473e28b575e4472515d57a57558f38ca6a1ccbf1ca977fae6a62c66c65c434"
+    }
+   ]
+  },
+  {
+   "id": "44d91da54415",
+   "titulo": "Receita Federal e CGIBS esclarecem sobre emissão de documento fiscal por condomínios",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "27/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-sobre-emissao-de-documento-fiscal-por-condominios",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "f0b13be9c3a7df3a8659316cb6f06cc7a1a4c53d5739c5aff325af3ff61f3ac0",
+   "referencia": "Receita Federal e CGIBS esclarecem sobre emissão de documento fiscal por condomínios — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\n",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "f0b13be9c3a7df3a8659316cb6f06cc7a1a4c53d5739c5aff325af3ff61f3ac0"
+    }
+   ]
+  },
+  {
+   "id": "ec88421cfb0c",
+   "titulo": "Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "25/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-realiza-live-sobre-o-novo-programa-gerador-do-documento-de-arrecadacao-do-simples-nacional-pgdas-no-contexto-da-reforma-tributaria",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "7db65ddbba5486812c5f8b102633b53e0c91457842efd6d6d2b6b66586d878e4",
+   "referencia": "Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nac",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "7db65ddbba5486812c5f8b102633b53e0c91457842efd6d6d2b6b66586d878e4"
+    }
+   ]
+  },
+  {
+   "id": "c90e57723dad",
+   "titulo": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "24/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "3afc51953c4ca2f1d814439c128c255df08c78207caef8d62ce626b9d3acc7b5",
+   "referencia": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDes",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "3afc51953c4ca2f1d814439c128c255df08c78207caef8d62ce626b9d3acc7b5"
+    }
+   ]
+  },
+  {
+   "id": "7a78ac5a9ea5",
+   "titulo": "Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Ministério da Fazenda",
+   "numero": "não identificado no texto",
+   "publicado_em": "23/11/2026",
+   "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "fonte_id": "mf-noticias-rtc",
+   "hash": "dae70abf8168ea16cb4447cb038e7a2fc0b05774744b6e951fa00cc9fef81d44",
+   "referencia": "Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS — Ministério da Fazenda\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nMinistério da Fazenda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nComposição\nOrganograma\nQuem é Quem\nÓrgãos\nÓrgãos de Assistência Direta\nÓrgãos Específicos Singulares\nÓrgãos Colegiados\nEntidades Vinculadas\nAssuntos\nNotícias\n2026\n2025\n2024\n2023\nApostas e Loterias\nConselho Monetário Nacional\nComo funciona o CNM\nDesenvolvimento Econômico Sustentável\nFundo",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "dae70abf8168ea16cb4447cb038e7a2fc0b05774744b6e951fa00cc9fef81d44"
+    }
+   ]
+  },
+  {
+   "id": "3531a9387842",
+   "titulo": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "27/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "1c8de7714a752e0a51f356949804b86d608494bb250b50ba0e98f718d6f97dfd",
+   "referencia": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nCons",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "1c8de7714a752e0a51f356949804b86d608494bb250b50ba0e98f718d6f97dfd"
+    }
+   ]
+  },
+  {
+   "id": "3f2646edca4a",
+   "titulo": "Receita Federal realiza live sobre o novo PGDAS no contexto da Reforma Tributária",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "25/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-realiza-live-sobre-o-novo-pgdas-no-contexto-da-reforma-tributaria",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "695095af216586749f7b5dc7fb70e3df5bccac301fcac1419e4fc2ade347b39c",
+   "referencia": "Receita Federal realiza live sobre o novo PGDAS no contexto da Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendências\nPagar impostos\nAlterar pagamentos\nC",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "695095af216586749f7b5dc7fb70e3df5bccac301fcac1419e4fc2ade347b39c"
+    }
+   ]
+  },
+  {
+   "id": "5cce5eda41fd",
+   "titulo": "Receita Federal encontra 7 pistolas de 9 mm em caixas de sabão em pó e em módulo de som durante fiscalização de remessas postais em Foz do Iguaçu",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "25/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-encontra-7-pistolas-de-9-mm-em-caixas-de-sabao-em-po-e-em-modulo-de-som-durante-fiscalizacao-de-remessas-postais-em-foz-do-iguacu",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "62fff7110df19b81b53a48f5f30fa6b8d30fee6684c2775f315bff6041d7caed",
+   "referencia": "Receita Federal encontra 7 pistolas de 9 mm em caixas de sabão em pó e em módulo de som durante fiscalização de remessas postais em Foz do Iguaçu — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nCo",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "62fff7110df19b81b53a48f5f30fa6b8d30fee6684c2775f315bff6041d7caed"
+    }
+   ]
+  },
+  {
+   "id": "977c801dbe92",
+   "titulo": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+   "tipo": "Notícia institucional (não equivale a norma)",
+   "orgao": "Receita Federal do Brasil",
+   "numero": "não identificado no texto",
+   "publicado_em": "24/11/2026",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "fonte_id": "rfb-noticias-rtc",
+   "hash": "7c74aeeffb1aff421caa907a3cf1a835d6b04d7c85188e823729f79338fda89d",
+   "referencia": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária — Receita Federal\nIr para o\nConteúdo\n1\nIr para a\nPágina Inicial\n2\nIr para o menu de\nNavegação\n3\nIr para a\nBusca\n4\nIr para o\nMapa do site\n5\nAtenção!\nSeu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.\nAbrir menu principal de navegação\nReceita Federal\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nenem\nimposto de renda\nTermos mais buscados\nDesenrola Brasil\nmei\nassinatura\nAssuntos\nCatálogo de Serviços\nNotícias\nTodas as notícias\nArrecadação e Cobrança\nCidadania Fiscal\nCombate ao contrabando\nCombate à corrupção\nCombate à sonegação\nInstitucional\nServiços\nTributação\n• Acordos, Pagamentos e Parcelamentos\nConsultar dívidas e pendênci",
+   "resumo_ia": null,
+   "status": "identificada",
+   "versao_anterior": null,
+   "primeira_vez_em": "2026-11-27T19:47:44+00:00",
+   "atualizado_em": "2026-11-27T19:47:44+00:00",
+   "verificado_em": "2026-11-27T19:47:44+00:00",
+   "historico": [
+    {
+     "em": "2026-11-27T19:47:44+00:00",
+     "evento": "identificada",
+     "hash": "7c74aeeffb1aff421caa907a3cf1a835d6b04d7c85188e823729f79338fda89d"
     }
    ]
   }
  ],
- "ultima_verificacao": "2026-11-26T19:58:09+00:00",
+ "ultima_verificacao": "2026-11-27T19:47:44+00:00",
  "aviso": "Conteúdo automatizado; resumos de IA pendentes de revisão humana."
 }

@@ -293,7 +293,7 @@ link para Copiar para área de transferência
 Publicado em
 19/11/2026 11h25
 Atualizado em
-19/11/2026 15h18
+26/11/2026 13h57
 Representantes da Receita Federal e do Comitê Gestor do IBS (CGIBS) realizaram, na quarta-feira (18/11) reunião de trabalho para tratar dos próximos passos da implementação da Reforma Tributária sobre o consumo e do fortalecimento da atuação conjunta na gestão do IVA Dual.
 Acesse o site especial da Receita Federal sobre a Reforma Tributária do Consumo
 O encontro reuniu lideranças das duas instituições e teve como foco o aperfeiçoamento da governança da atuação integrada entre a Receita Federal e Comitê Gestor do IBS, buscando assegurar maior coordenação, alinhamento institucional e eficiência na construção dos processos, sistemas e instrumentos necessários à implantação do novo modelo tributário.
@@ -303,6 +303,20 @@ As instituições ressaltaram que a implementação da Reforma Tributária exige
 Categoria
 Finanças, Impostos e Gestão Pública
 Tags: REFORMA TRIBUTÁRIACONFORMIDADE TRIBUTÁRIATRANSPARÊNCIAIVA DUAL
+Conteúdo relacionado
+Receita Federal divulga calculadora para apoiar contribuintes na análise de opções de transação tributária
+Receita Federal libera acesso às novas APIs de apuração da CBS
+Receita Federal atualiza Ambiente Beta da DeRE
+Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária
+Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS-D) é atualizado para atender à Reforma Tributária a partir de novembro de 2026
+Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária
+Receita Federal disponibiliza API para emissão do Recolhimento como Adquirente (RAD)
+Receita Federal divulga quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS
+Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais
+Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS
+Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária
+Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS
+Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter

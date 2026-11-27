@@ -303,7 +303,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
-Vídeos das Histórias de Trabalho
+Histórias de Trabalho - Depoimentos
 Portais Relacionados
 Empresas e Negócios
 ENAT
@@ -319,16 +319,6 @@ Simples Nacional
 Sinter
 Siscomex
 Sped
-Vice-Presidência Regional da OMA para as Américas e o Caribe
-Sobre
-Vice-Presidência Regional
-Membros
-Oficina Regional de Fortalecimento de Capacidades
-Agenda e eventos
-Documentos e publicações
-Contato
-Galeria
-Notícias da OMA
 Serviços
 Catálogo de Serviços da Receita Federal
 Serviços de A a Z
@@ -431,22 +421,25 @@ Orientações
 Manuais
 Curso
 Apresentações
-Tributação sobre Consumo
+Portal Nacional de Tributação de Bens e Serviços
 Acompanhe a Reforma Tributária
-Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais
-Tributação
-19/11/2026 16h56
-RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária
-Tributação
-18/11/2026 19h12
-A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS
+Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios
+Institucional
+27/11/2026 13h39
+Receita Federal realiza live sobre o novo PGDAS no contexto da Reforma Tributária
 Serviços
-18/11/2026 16h54
+25/11/2026 16h35
+Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária
+Tributação
+24/11/2026 08h36
 Mais notícias da Reforma Tributária…
+Dados, normas e materiais
 Painel da Reforma Tributária do Consumo
 Painel (dashboard) da Reforma Tributária do Consumo
 Podcasts Reforma de Fato
 Informação segura para apoiar empresas, profissionais da contabilidade e contribuintes na transição para as novas regras da Reforma Tributária do Consumo.
+Legislação
+Principais Marcos Regulatórios, Atos Conjuntos e Atos Técnicos Conjuntos
 Documentos Fiscais
 Saiba mais sobre a atualização de documentos fiscais para a Reforma Tributária.
 Vídeos
@@ -460,10 +453,6 @@ Mais vídeos
 Saiba mais
 Entenda a Reforma
 O que muda? Modernização, simplificação e alinhamento às melhores práticas internacionais.
-Legislação
-Principais Marcos Regulatórios, Atos Conjuntos e Atos Técnicos Conjuntos
-Documentos Fiscais
-Saiba mais sobre a atualização de documentos fiscais para a Reforma Tributária.
 Sobre o Piloto da CBS
 O projeto piloto tem como objetivo testar e aprimorar os sistemas e processos relativos à Contribuição sobre Bens e Serviços (CBS)
 Informações sobre a Reforma Tributária do Consumo, sua implementação e os impactos no trabalho da Receita Federal, bem como os marcos legais, projetos tecnológicos e de regulamentação que fazem parte do programa, vídeos, materiais de apoio e documentos institucionais. A Receita Federal está comprometida em conduzir sua implementação com transparência e alinhamento aos princípios da Administração Tributária 3.0, fortalecendo a sua missão de promover justiça fiscal, cidadania e desenvolvimento econômico para o país.
@@ -742,7 +731,7 @@ Concurso Público
 Sinter
 TV Receita Federal
 É golpe?
-Vídeos das Histórias de Trabalho
+Histórias de Trabalho - Depoimentos
 Portais Relacionados
 Empresas e Negócios
 ENAT
@@ -758,16 +747,6 @@ Simples Nacional
 Sinter
 Siscomex
 Sped
-Vice-Presidência Regional da OMA para as Américas e o Caribe
-Sobre
-Vice-Presidência Regional
-Membros
-Oficina Regional de Fortalecimento de Capacidades
-Agenda e eventos
-Documentos e publicações
-Contato
-Galeria
-Notícias da OMA
 Serviços
 Catálogo de Serviços da Receita Federal
 Serviços de A a Z
